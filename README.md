@@ -37,7 +37,7 @@
 
 ## <a name="M"> </a>M
 
-- (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism. by [Taufik Nurrohman](https://github.com/taufik-nurrohman)
+- (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.`* by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
 
 ## <a name="N"> </a>N
 
