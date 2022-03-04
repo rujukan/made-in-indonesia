@@ -11,7 +11,7 @@
 
 ## <a name="A"> </a>A
 
-- [example](https://example.com) - deskripsi example
+- [example](https://example.com) - deskripsi example. by [pembuat](https://link.pembuat)
 
 ## <a name="B"> </a>B
 
