@@ -45,7 +45,7 @@
 ## <a name="R"> </a>R
 
 ## <a name="S"> </a>S
-
+- (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
 ## <a name="T"> </a>T
 
 ## <a name="U"> </a>U
