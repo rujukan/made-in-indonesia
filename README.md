@@ -53,6 +53,7 @@
 ## <a name="V"> </a>V
 
 ## <a name="W"> </a>W
+- (⭐ 329) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
 
 ## <a name="X"> </a>X
 
