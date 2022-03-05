@@ -4,8 +4,9 @@
 
 ### tambah daftar project.
 - pembuat project adalah orang indonesia.
-- ```
-kode
+- 
+```
+[contoh project](https://github.com/link-repo) - `deskripsi.` *by [pembuat](https://link.pembuat)*
 ```
 
 <p align="center">
@@ -13,8 +14,6 @@ kode
 </p>
 
 ## <a name="A"> </a>A 
-
-- [example](https://example.com) - deskripsi example. by [pembuat](https://link.pembuat)
 
 ## <a name="B"> </a>B
 
