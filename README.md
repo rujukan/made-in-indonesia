@@ -4,7 +4,7 @@
 
 ### tambah daftar project.
 - pembuat project adalah orang indonesia.
-- 
+- tambah list project
 ```
 [contoh project](https://github.com/link-repo) - `deskripsi.` *by [pembuat](https://link.pembuat)*
 ```
