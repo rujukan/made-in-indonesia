@@ -121,5 +121,5 @@
 - pembuat project adalah orang indonesia.
 - tambah list project
 ```
-(⭐ 111) [contoh project](https://github.com/link-repo) - `deskripsi.` *by [pembuat](https://link.pembuat)*
+(⭐ 111) [nama project](link) - `deskripsi.` *by [pembuat](link)*
 ```
