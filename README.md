@@ -82,15 +82,11 @@
 
 ## <a name="S"> </a>S
 - (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
-<<<<<<< HEAD
 - (⭐ 287) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/
   Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
-=======
-
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
->>>>>>> f3827d3778a56c32cccdb34e3f16c0ed6ac307e1
 ## <a name="T"> </a>T
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
