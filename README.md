@@ -46,6 +46,8 @@
 
 ## <a name="S"> </a>S
 - (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
+- (⭐ 287) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/
+  Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 ## <a name="T"> </a>T
 
 ## <a name="U"> </a>U
