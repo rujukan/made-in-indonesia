@@ -97,6 +97,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="T"> </a>T
+- (⭐ 1) [TafsirQ API](https://github.com/YogaAPSY/tafsirq-api) - `API untuk Al-Quran dan Hadits` *by [Yoga Anugrah Pratama. SY](https://github.com/YogaAPSY)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
