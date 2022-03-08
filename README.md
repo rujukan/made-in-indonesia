@@ -57,6 +57,7 @@
 ## <a name="M"> </a>M
 
 - (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
+- (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
@@ -104,7 +105,6 @@
 
 ## <a name="W"> </a>W
 - (⭐ 329) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
-- (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 - (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
