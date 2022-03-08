@@ -104,6 +104,7 @@
 
 ## <a name="W"> </a>W
 - (⭐ 329) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
+- (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
