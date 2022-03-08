@@ -32,6 +32,7 @@
 
 ## <a name="G"> </a>G
 
+(⭐ 58) [GameINA](https://github.com/syauqi/gameina) - `GameINA adalah Web Portal Game yang Dilengkapi Game Market, Website Based Game dan Layanan Top-up yang dibuat untuk membantu para developer di Indonesia GameINA dibuat ditujukan agar para developer dan publisher indonesia dapat memasarkan gamenya di platform game milik negaranya sendiri.` *by [Syauqizaidan](https://github.com/syauqi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="H"> </a>H
