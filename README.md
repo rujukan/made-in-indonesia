@@ -36,6 +36,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="H"> </a>H
+- (⭐ 147) [Hadith - API](https://github.com/sutanlab/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/sutanlab)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
