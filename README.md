@@ -56,7 +56,7 @@
 
 ## <a name="M"> </a>M
 
-- (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
+1 [x] (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
