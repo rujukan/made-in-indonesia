@@ -74,6 +74,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="Q"> </a>Q
+- (⭐ 414) [Quran - API](https://github.com/sutanlab/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/sutanlab)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
