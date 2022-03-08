@@ -91,6 +91,7 @@
 - (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
 - (⭐ 287) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/
   Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
+- (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
