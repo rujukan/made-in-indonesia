@@ -93,6 +93,7 @@
 - (⭐ 287) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/
   Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 - (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
+- (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
