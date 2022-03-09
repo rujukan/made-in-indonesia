@@ -14,6 +14,8 @@
 
 ## <a name="B"> </a>B
 - (⭐ 19) [Batangan](https://github.com/lantip/batangan) - `Batangan adalah permainan tebak kata dalam bahasa Jawa. Sumber kata dari kamus Poerwadarminta` *by [Rony Lantip](https://github.com/lantip)*
+- (⭐ 26) [Daftar Kata Baku dan Tidak Baku](https://github.com/lantip/baku-tidak-baku) - `Kumpulan kata baku dan tidak baku menurut KBBI` *by [Rony Lantip](https://github.com/lantip)*
+
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
