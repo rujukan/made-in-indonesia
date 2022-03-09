@@ -39,7 +39,7 @@
 
 ## <a name="H"> </a>H
 - (⭐ 147) [Hadith - API](https://github.com/sutanlab/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/sutanlab)*
-- (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Dan](https://github.com/danpros)*
+- (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
