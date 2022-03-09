@@ -13,6 +13,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="B"> </a>B
+- (⭐ 19) [Batangan](https://github.com/lantip/batangan) - `Batangan adalah permainan tebak kata dalam bahasa Jawa. Sumber kata dari kamus Poerwadarminta` *by [Rony Lantip](https://github.com/lantip)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
