@@ -7,8 +7,8 @@
 </p>
 
 ## <a name="A"> </a>A 
+- (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
 
-(⭐ 159) [nama project](Aksara UI) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="B"> </a>B
