@@ -100,6 +100,7 @@
 - (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
 - (⭐ 3) [Sunda.js](https://github.com/masnormen/sunda.js) - `Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 19) [Sistem Informasi Perpustakaan](https://github.com/fauzan1892/perpus-ci3) - `Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.` *by [Fauzan Falah](https://github.com/fauzan1892)*
+- (⭐ 243) [Sawa](https://github.com/lantip/sawa) - `sawa (ꦱꦮ) is an open source programming language, an interpreter to be precise, where you can write python code using javanese character.` *by [Rony Lantip](https://github.com/lantip)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
