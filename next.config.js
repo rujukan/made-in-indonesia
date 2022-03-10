@@ -10,5 +10,5 @@
 const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
-  assetPrefix: isProd ? '/made-in-indonesia/tree/gh-pages/' : ''
+  assetPrefix: isProd ? '/made-in-indonesia/' : ''
 }
