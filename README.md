@@ -129,6 +129,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 ## <a name="W"> </a>W
 - (⭐ 329) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
 - (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
+- (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
