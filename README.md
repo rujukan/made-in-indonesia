@@ -153,7 +153,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 
-### tambah daftar project.
+### tambah daftar OSS project.
 - pembuat project adalah orang indonesia.
 - tambah list project
 ```
