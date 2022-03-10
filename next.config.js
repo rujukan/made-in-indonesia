@@ -5,5 +5,5 @@
 const debug = process.env.NODE_ENV !== 'production'
 
 module.exports = {
-  assetPrefix: !debug ? '/made-in-indonesia/' : '',
+  assetPrefix: !debug ? '/made-in-indonesia/tree/gh-pages/' : '',
 }
