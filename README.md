@@ -92,6 +92,7 @@
 ## <a name="Q"> </a>Q
 - (⭐ 414) [Quran - API](https://github.com/sutanlab/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/sutanlab)*
 - (⭐ 8) [quranku](https://github.com/dikisiswanto/quranku) - `Al-Quran mini web app. Built with Next.js & TailwindCSS` *by [Diki Siswanto](https://github.com/dikisiswanto)*
+- (⭐ 58) [Quote's Project](https://github.com/nyancodeid/quotes) - `Website sederhana yang menampilkan Kutipan Inspirasional secara acak.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
