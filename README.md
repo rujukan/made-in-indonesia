@@ -17,6 +17,7 @@
 ## <a name="B"> </a>B
 - (⭐ 19) [Batangan](https://github.com/lantip/batangan) - `Batangan adalah permainan tebak kata dalam bahasa Jawa. Sumber kata dari kamus Poerwadarminta` *by [Rony Lantip](https://github.com/lantip)*
 - (⭐ 26) [Daftar Kata Baku dan Tidak Baku](https://github.com/lantip/baku-tidak-baku) - `Kumpulan kata baku dan tidak baku menurut KBBI` *by [Rony Lantip](https://github.com/lantip)*
+- (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
