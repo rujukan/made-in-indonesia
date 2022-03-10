@@ -10,6 +10,7 @@
 - (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
 - (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 - (⭐ 5) [APAM Barabai](https://github.com/basoro/APAM-Barabai) - `Aplikasi Pasien dan Antrian Mandiri. Modul aplikasi mobile SIMRS Khanza versi Android dan IOS untuk pasien rawat Jalan.` *by [Basoro](https://github.com/basoro)*
+- (⭐ 7) [Al-Quran dan Terjemahan](https://github.com/ngekoding/quran-id) - `Al-Quran with Indonesian Translation built with Vue Quasar Framework` *by [Nur Muhammad](https://github.com/ngekoding)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
