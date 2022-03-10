@@ -57,6 +57,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="K"> </a>K
+- (⭐ 39) [Khanza LITE](https://github.com/basoro/Khanza-Lite) - `SIMKES Khanza versi Ringan. Jalan di sisi server sebagai aplikasi web dan bersifat mobile first (responsive).` *by [Basoro](https://github.com/basoro)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
