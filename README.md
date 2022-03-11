@@ -124,6 +124,7 @@
 - (⭐ 6) [Pleasantcord](https://github.com/Namchee/pleasantcord) - `NSFW image moderation bot for Discord` *by [Cristopher](https://github.com/Namchee)*
 - (⭐ 28,764) [PhantomJS - Scriptable Headless WebKit](https://github.com/ariya/phantomjs) - `Scriptable Headless Browser` *by [Ariya Hidayat](https://github.com/ariya)*
 - (⭐ 5) [Product Stock Web App](https://github.com/nafiesl/product-stock) - `A product stock management web app example` *by [Nafies Luthfi](https://github.com/nafiesl)*
+- (⭐ 34) [patterns.run](https://github.com/grikomsn/patterns.run) - `Collection of snippets to render logical patterns` *by [Griko Nibras](https://github.com/grikomsn)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
