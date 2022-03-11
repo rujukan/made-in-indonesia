@@ -168,6 +168,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
 - (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
 - (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
+- (⭐ 9) [Windgraph](https://github.com/Namchee/windgraph) - `Tailwind CSS powered open graph generator` *by [Cristopher](https://github.com/Namchee)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
