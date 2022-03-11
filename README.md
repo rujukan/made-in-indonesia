@@ -172,6 +172,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 53) [theme-in-css](https://github.com/pveyes/theme-in-css) - `Type-safe CSS custom properties (CSS variables) for theming purpose` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 9) [Tebak Masa](https://github.com/ariya/tebakmasa) - `Infer the date and time from the general description in Bahasa Indonesia` *by [Ariya Hidayat](https://github.com/ariya)*
 - (⭐ 81) [tempe](https://github.com/masbagal/tempe) - `Featherlight (< 2kB) helper for Javascript date formatting` *by [Dimitrij Agal](https://github.com/masbagal)*
+- (⭐ 0) [TungTang - Hitung Tanggal](https://github.com/masbagal/tungtang) - `Aplikasi web sederhana untuk menghitung penanggalan perayaan meninggalnya seseorang` *by [Dimitrij Agal](https://github.com/masbagal)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
