@@ -70,6 +70,7 @@
 
 ## <a name="L"> </a>L
 - (⭐ 242) [Learnify](https://github.com/syauqi/learnify) - `Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.` *by [Syauqizaidan](https://github.com/syauqi)*
+- (⭐ 11) [Lunox](https://github.com/kodepandai/lunox) - `Lunox is Laravel-Flavoured NodeJs Framework. What is Laravel? Laravel is a web application framework with expressive, elegant syntax see the official website. Lunox goals is to bring the Laravel Flavour to nodejs environment.` *by [Kode Pandai](https://github.com/kodepandai)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
