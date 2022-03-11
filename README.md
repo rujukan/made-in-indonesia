@@ -121,6 +121,7 @@
 
 ## <a name="O"> </a>O
 - (⭐ 690) [OpenSID - Sistem Informasi Desa](https://github.com/OpenSID/OpenSID) - `Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID` *by [Perkumpulan Desa Digital Terbuka](https://opendesa.id/)*
+- (⭐ 1) [OwnTest](https://github.com/rahmatagungj/owntest) - `Simple JavaScript Testing Framework with only one file and zero dependencies.` *by [Rahmat Agung Julians](https://github.com/rahmatagungj)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
