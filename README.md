@@ -134,6 +134,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## <a name="T"> </a>T
 - (⭐ 1) [TafsirQ API](https://github.com/YogaAPSY/tafsirq-api) - `API untuk Al-Quran dan Hadits` *by [Yoga Anugrah Pratama. SY](https://github.com/YogaAPSY)*
+- (⭐ 53) [theme-in-css](https://github.com/pveyes/theme-in-css) - `Type-safe CSS custom properties (CSS variables) for theming purpose` *by [Fatih Kalifa](https://github.com/pveyes)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
