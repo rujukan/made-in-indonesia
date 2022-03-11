@@ -134,6 +134,7 @@
 - (⭐ 34) [patterns.run](https://github.com/grikomsn/patterns.run) - `Collection of snippets to render logical patterns` *by [Griko Nibras](https://github.com/grikomsn)*
 - (⭐ 158) [PUEBI Daring](https://github.com/ivanlanin/puebi) - `Pedoman Umum Ejaan Bahasa Indonesia` *by [Ivan Lanin](https://github.com/ivanlanin)*
 - (⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 1) [PkDx: A PokeDex app](https://github.com/svspicious/pkdx) - `A simple pokedex web app built with react.js, typescript, & love` *by [Wisesa](https://github.com/svspicious)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
