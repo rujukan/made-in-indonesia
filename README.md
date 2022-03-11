@@ -88,6 +88,7 @@
 - (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 48) [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) - `Kelas Rumah Berbagi` *by [Zain Fathoni](https://github.com/zainfathoni)*
 - (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
+- (⭐ 3) [Komo](https://github.com/ai-null/komo) - `video player app using electron and react` *by [Ainul](https://github.com/ai-null)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
