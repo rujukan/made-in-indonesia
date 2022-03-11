@@ -147,6 +147,7 @@
 - (⭐ 243) [Sawa](https://github.com/lantip/sawa) - `sawa (ꦱꦮ) is an open source programming language, an interpreter to be precise, where you can write python code using javanese character.` *by [Rony Lantip](https://github.com/lantip)*
 - (⭐ 150) [Sistem Informasi Akademik (SIAKAD)](https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel) - ` Sistem Informasi Akademik Sekolah adalah Website untuk para siswa dapat melihat jadwal pelajaran, dan nilai rapot dan para guru dapat menambahkan nilai siswa dengan muda melalui website.` *by [
 Adhi Ariyadi](https://github.com/adhiariyadi)*
+- (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
