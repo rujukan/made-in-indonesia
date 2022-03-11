@@ -184,6 +184,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
 - (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 9) [Windgraph](https://github.com/Namchee/windgraph) - `Tailwind CSS powered open graph generator` *by [Cristopher](https://github.com/Namchee)*
+- (⭐ 7) [Writter](https://github.com/kontenbase-team/writter) - `A very simple Twitter clone with Remix and Kontenbase. Just a demo, not meant to be 100%` *by [Kontenbase Team](https://github.com/kontenbase-team)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
