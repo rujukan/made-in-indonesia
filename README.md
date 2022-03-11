@@ -30,6 +30,7 @@
 - (⭐ 42) [cardivo](https://github.com/satyawikananda/cardivo) - `Get your card name and put it in your magic readme card_index` *by [Satya Wikananda](https://github.com/satyawikananda)*
 - (⭐ 74) [Compose playground: To Do List App](https://github.com/wisnukurniawan/Compose-ToDo) - `iOS reminder app clone built with Jetpack Compose` *by [Wisnu Kurniawan](https://github.com/wisnukurniawan)*
 - (⭐ 374) [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - `Cross-platform colour copy paste from phone's camera to web, figma and sketch plugin` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
+- (⭐ 86) [Cek Ejaan Figma Plugin](https://github.com/sonnylazuardi/cek-ejaan) - `Gramatika Figma Plugin: Spell Checking (Grammarly) for Bahasa Indonesia. This makes it easy to check the typo or spelling mistakes in your design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
