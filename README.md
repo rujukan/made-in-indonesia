@@ -44,6 +44,7 @@
 
 ## <a name="F"> </a>F
 - (⭐ 21) [Frogo Android SDK](https://github.com/frogobox/frogo-android-sdk) - `SDK for anything your problem to make easier developing android apps` *by [Faisal Amir](https://github.com/amirisback)*
+- (⭐ 10) [flair-kit monorepo](https://github.com/jackyef/flair) - `Collections of ready-to-use, accessible React components. Dark-mode and SSR support included.` *by [Jacky Efendi](https://github.com/jackyef)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
