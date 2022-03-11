@@ -52,6 +52,7 @@
 - (⭐ 58) [GameINA](https://github.com/syauqi/gameina) - `GameINA adalah Web Portal Game yang Dilengkapi Game Market, Website Based Game dan Layanan Top-up yang dibuat untuk membantu para developer di Indonesia GameINA dibuat ditujukan agar para developer dan publisher indonesia dapat memasarkan gamenya di platform game milik negaranya sendiri.` *by [Syauqizaidan](https://github.com/syauqi)*
 - (⭐ 96) [GraphQL for PokeAPI](https://github.com/mazipan/graphql-pokeapi) - `The Unofficial GraphQL for PokeAPI` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 116) [Globe 3D](https://github.com/sonnylazuardi/globe-3d) - `Convert your design to 3D Globe. Create an Interactive 3D globe based on your flat world map design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
+- (⭐ 72) [gramatika.app](https://github.com/sonnylazuardi/gramatika.app) - `Website of Gramatika check spelling and typo tools in Bahasa Indonesia` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
