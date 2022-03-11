@@ -164,6 +164,7 @@
 - (⭐ 150) [Sistem Informasi Akademik (SIAKAD)](https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel) - ` Sistem Informasi Akademik Sekolah adalah Website untuk para siswa dapat melihat jadwal pelajaran, dan nilai rapot dan para guru dapat menambahkan nilai siswa dengan muda melalui website.` *by [
 Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
+- (⭐ 0) [Skeduler](https://github.com/dafiulh/skeduler) - `Event scheduler build with Firebase` *by [dafiulh](https://github.com/dafiulh)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
