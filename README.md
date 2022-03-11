@@ -78,6 +78,7 @@
 - (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 48) [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) - `Kelas Rumah Berbagi` *by [Zain Fathoni](https://github.com/zainfathoni)*
+- (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
