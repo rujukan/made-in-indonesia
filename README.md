@@ -71,6 +71,7 @@
 - (⭐ 39) [Khanza LITE](https://github.com/basoro/Khanza-Lite) - `SIMKES Khanza versi Ringan. Jalan di sisi server sebagai aplikasi web dan bersifat mobile first (responsive).` *by [Basoro](https://github.com/basoro)*
 - (⭐ 11) [Kanaizu](https://github.com/elianiva/kanaizu) - `This is a simple quiz app that I made as an excuse to try Routify/Svelte and to help my friend memorise Japanese kana. It's not perfect but it's quite usable. Currently there are ~508 words or phrase of hiragana and katakana.` *by [elianiva](https://github.com/elianiva)*
 - (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
+- (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
