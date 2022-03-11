@@ -95,6 +95,7 @@
 - (⭐ 1) [Lunox-framework](https://github.com/kodepandai/lunox-framework) - `This is Lunox Framework. What is Lunox? Lunox is Laravel-Flavoured NodeJs framework.` *by [Kode Pandai](https://github.com/kodepandai)*
 - (⭐ 3) [Laravel RajaOngkir API Wrapper](https://github.com/kodepandai/laravel-rajaongkir) - `Integrate RajaOngkir API with laravel` *by [Kode Pandai](https://github.com/kodepandai)*
 - (⭐ 29) [Luck or hardwork](https://github.com/jackyef/luck-or-hardwork) - `Simple web-app to provide illustration about a take on luck and hard work.` *by [Jacky Efendi](https://github.com/jackyef)*
+- (⭐ 12) [LhokUtang](https://github.com/theodorusclarence/lhokutang) - `App to track debt with your housemates` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
