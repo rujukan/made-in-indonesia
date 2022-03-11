@@ -14,6 +14,7 @@
 - (⭐ 3) [Al-Qur'an JSON API [id-ID]](https://github.com/nyancodeid/quran-api-go) - `Grabbed from Officially Kementerian Agama Website then parsed as JSON file. No change anything on it, just reorder JSON schema and make it better.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
+(⭐ 3565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
