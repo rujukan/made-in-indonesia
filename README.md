@@ -124,6 +124,7 @@
 
 ## <a name="R"> </a>R
 - (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
+- (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
