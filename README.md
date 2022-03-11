@@ -95,6 +95,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="P"> </a>P
+- (⭐ 1) [Pray Box](https://github.com/amirisback/pray-box) - `Pray Box, Catat Shalat, Muslim Mobile Apps, Aplikasi berbasis android yang di khususkan untuk pencatatan sholat` *by [Faisal Amir](https://github.com/amirisback)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
