@@ -157,6 +157,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
 - (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
 - (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
+- (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
