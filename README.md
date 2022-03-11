@@ -14,7 +14,7 @@
 - (⭐ 3) [Al-Qur'an JSON API [id-ID]](https://github.com/nyancodeid/quran-api-go) - `Grabbed from Officially Kementerian Agama Website then parsed as JSON file. No change anything on it, just reorder JSON schema and make it better.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
-(⭐ 3565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 3565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
@@ -105,7 +105,7 @@
 - (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
 - (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 - (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
-(⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
@@ -114,6 +114,7 @@
 - (⭐ 141) [naskah](https://github.com/pveyes/naskah) - `Bahasa pemrograman dengan sintaks Bahasa Indonesia (Programming language with Indonesian syntax) indonesia` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 2) [Ngobrol Dong App](https://github.com/iyansr/ngobrol-dong) - `Ngobrol is chat application that user track friends location, built with React Native integrated with Firebase and Mapbox` *by [I Putu Saputrayana](https://github.com/iyansr)*
 - (⭐ 90) [Notiolink](https://github.com/theodorusclarence/notiolink) - `Self-hostable branded link shortener built with Next.js & Notion API` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
+- (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
