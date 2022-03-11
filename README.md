@@ -104,6 +104,7 @@
 ## <a name="P"> </a>P
 - (⭐ 1) [Pray Box](https://github.com/amirisback/pray-box) - `Pray Box, Catat Shalat, Muslim Mobile Apps, Aplikasi berbasis android yang di khususkan untuk pencatatan sholat` *by [Faisal Amir](https://github.com/amirisback)*
 - (⭐ 3) [Prawf](https://github.com/elianiva/prawf) - `A simple Pauli Test simulation app made with Typescript, Web Component, and RxJS` *by [elianiva](https://github.com/elianiva)*
+- (⭐ 90) [pramuka.online](https://github.com/mazipan/pramuka.online) - `Kumpulan informasi digital mengenai berbagai materi pramuka, materi kenegaraan dan materi kecakapan umum` *by [Irfan Maulana](https://github.com/mazipan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
