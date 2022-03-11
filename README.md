@@ -13,6 +13,7 @@
 - (⭐ 7) [Al-Quran dan Terjemahan](https://github.com/ngekoding/quran-id) - `Al-Quran with Indonesian Translation built with Vue Quasar Framework` *by [Nur Muhammad](https://github.com/ngekoding)*
 - (⭐ 3) [Al-Qur'an JSON API [id-ID]](https://github.com/nyancodeid/quran-api-go) - `Grabbed from Officially Kementerian Agama Website then parsed as JSON file. No change anything on it, just reorder JSON schema and make it better.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
+- (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
