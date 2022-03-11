@@ -130,6 +130,7 @@
 - (⭐ 5) [Product Stock Web App](https://github.com/nafiesl/product-stock) - `A product stock management web app example` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 34) [patterns.run](https://github.com/grikomsn/patterns.run) - `Collection of snippets to render logical patterns` *by [Griko Nibras](https://github.com/grikomsn)*
 - (⭐ 158) [PUEBI Daring](https://github.com/ivanlanin/puebi) - `Pedoman Umum Ejaan Bahasa Indonesia` *by [Ivan Lanin](https://github.com/ivanlanin)*
+(⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
