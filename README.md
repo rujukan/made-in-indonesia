@@ -33,6 +33,7 @@
 - (⭐ 74) [Compose playground: To Do List App](https://github.com/wisnukurniawan/Compose-ToDo) - `iOS reminder app clone built with Jetpack Compose` *by [Wisnu Kurniawan](https://github.com/wisnukurniawan)*
 - (⭐ 374) [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - `Cross-platform colour copy paste from phone's camera to web, figma and sketch plugin` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 86) [Cek Ejaan Figma Plugin](https://github.com/sonnylazuardi/cek-ejaan) - `Gramatika Figma Plugin: Spell Checking (Grammarly) for Bahasa Indonesia. This makes it easy to check the typo or spelling mistakes in your design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
+- (⭐ 53) [Chakra-Icons](https://github.com/kodingdotninja/chakra-icons) - `Transform SVG to React Chakra UI <Icon />` *by [Koding Ninja](https://github.com/kodingdotninja)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
