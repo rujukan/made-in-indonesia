@@ -169,6 +169,7 @@
 Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 0) [Skeduler](https://github.com/dafiulh/skeduler) - `Event scheduler build with Firebase` *by [dafiulh](https://github.com/dafiulh)*
+- (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
