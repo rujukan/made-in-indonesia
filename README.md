@@ -116,6 +116,7 @@
 - (⭐ 2) [Ngobrol Dong App](https://github.com/iyansr/ngobrol-dong) - `Ngobrol is chat application that user track friends location, built with React Native integrated with Firebase and Mapbox` *by [I Putu Saputrayana](https://github.com/iyansr)*
 - (⭐ 90) [Notiolink](https://github.com/theodorusclarence/notiolink) - `Self-hostable branded link shortener built with Next.js & Notion API` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 - (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
