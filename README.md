@@ -1,6 +1,3 @@
----
-layout: home
----
 # 🇮🇩 made in indonesia
 
 > daftar OSS project yang dibuat oleh orang indonesia.
