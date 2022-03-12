@@ -15,6 +15,7 @@
 - (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 3565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 1543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
