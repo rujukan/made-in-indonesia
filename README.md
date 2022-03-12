@@ -67,6 +67,7 @@
 - (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
 - (⭐ 9) [Holy Quran with Colorful Tajweed Anotation](https://github.com/kodepandai/colorful-quran) - `Holy Qur'an with colorfull tajweed anotation` *by [Kode Pandai](https://github.com/kodepandai)*
 - (⭐ 468) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
+- (⭐ 0) [horizon](https://github.com/RSurya99/horizon) - `Horizon: create custom keycaps for mechanical keyboard easily` *by [Rafli Surya P](https://github.com/RSurya99)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
