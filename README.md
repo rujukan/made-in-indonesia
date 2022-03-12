@@ -105,6 +105,7 @@
 - (⭐ 29) [Luck or hardwork](https://github.com/jackyef/luck-or-hardwork) - `Simple web-app to provide illustration about a take on luck and hard work.` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 12) [LhokUtang](https://github.com/theodorusclarence/lhokutang) - `App to track debt with your housemates` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 - (⭐ 364) [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) - `Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.` *by [Laravolt](https://github.com/laravolt)*
+- (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
