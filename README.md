@@ -7,8 +7,8 @@
 </p>
 
 ## <a name="A"> </a>A 
-- (⭐ 3565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
-- (⭐ 1543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
+- (⭐ 3,565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 1,543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 - (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
 - (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 - (⭐ 58) [ApiRateLimitBundle](https://github.com/IndraGunawan/api-rate-limit-bundle) - `Rate limits protection for api-platform resources.` *by [Indra Gunawan](https://github.com/IndraGunawan)*
