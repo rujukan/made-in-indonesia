@@ -43,6 +43,7 @@
 
 ## <a name="D"> </a>D
 - (⭐ 118) [Dompet](https://github.com/nafiesl/dompet) - `A personal bookkeeping web application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
+- (⭐ 25) [Discord Music Bot For Termux](https://github.com/fdciabdul/tmuxdcbot) - `Discord Music Bot For Termux` *by [taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
