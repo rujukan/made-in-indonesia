@@ -144,6 +144,7 @@
 - (⭐ 90) [Notiolink](https://github.com/theodorusclarence/notiolink) - `Self-hostable branded link shortener built with Next.js & Notion API` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 - (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
 - (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
+- (⭐ 0) [next-tabley](https://github.com/alfianandinugraha/next-tabley) - `Using React-Table and Chakra UI to create powerful table` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
