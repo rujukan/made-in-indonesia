@@ -234,6 +234,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
 - (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+- (⭐ 14) [Timetheft.js](https://github.com/bl0cknumber/timetheft) - `Timetheft.js - Simple and opinionated library to handle countdown in Javascript` *by [Fauzan](https://github.com/bl0cknumber)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
