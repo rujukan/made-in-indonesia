@@ -182,6 +182,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
 - (⭐ 9) [sekolah](https://github.com/hendisantika/sekolah) - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
 - (⭐ 1231) [Sudomy](https://github.com/screetsec/Sudomy) - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
+- (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
