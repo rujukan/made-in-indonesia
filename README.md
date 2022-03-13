@@ -130,6 +130,7 @@
 - (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
 - (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+- (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
