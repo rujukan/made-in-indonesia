@@ -162,6 +162,7 @@
 - (⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
 - (⭐ 1) [PkDx: A PokeDex app](https://github.com/svspicious/pkdx) - `A simple pokedex web app built with react.js, typescript, & love` *by [Wisesa](https://github.com/svspicious)*
 - (⭐ 107) [PHUNT](https://github.com/Kristories/phunt) - `Product Hunt Command Line Interface` *by [Wahyu Kristianto](https://github.com/Kristories)*
+- (⭐ 9) [Polarite](https://github.com/teknologi-umum/polarite) - `a Pastebin alternative made for simplicity written in Go.` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
