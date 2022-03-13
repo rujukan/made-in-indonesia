@@ -278,6 +278,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## <a name="Z"> </a>Z
 - (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
+- (⭐ 4) [ZippyDamn-lib!](https://github.com/diosamuel/zippydamn-lib) - `ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs` *by [Virdio Samuel](https://github.com/diosamuel)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
