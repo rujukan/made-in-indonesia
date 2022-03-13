@@ -214,6 +214,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 0) [TungTang - Hitung Tanggal](https://github.com/masbagal/tungtang) - `Aplikasi web sederhana untuk menghitung penanggalan perayaan meninggalnya seseorang` *by [Dimitrij Agal](https://github.com/masbagal)*
 - (⭐ 6222) [TheFatRat](https://github.com/screetsec/TheFatRat) - ``TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. *by [Edo Maland](https://github.com/screetsec)*
 - (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
+- (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
