@@ -136,6 +136,7 @@
 - (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+- (⭐ 966) [Mazer Dashboard](https://github.com/zuramai/mazer) - `Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page` *by [Ahmad Saugi](https://github.com/zuramai)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
