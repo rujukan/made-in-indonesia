@@ -124,6 +124,7 @@
 - (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 3) [Komo](https://github.com/ai-null/komo) - `video player app using electron and react` *by [Ainul](https://github.com/ai-null)*
 - (⭐ 43) [Kait-Admin](https://github.com/devoverid/kait-admin) - `A Free VueJS + TailwindCSS Admin Template` *by [DevoverID](https://github.com/devoverid)*
+- (⭐ 49) [Kyros](https://github.com/p4kl0nc4t/kyros) - `Python wrapper for WhatsApp Web API websocket communication` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
