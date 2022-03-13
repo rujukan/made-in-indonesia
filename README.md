@@ -83,6 +83,7 @@
 - (⭐ 96) [IRO](https://github.com/nyancodeid/iro) - `IRO - Amazing Color Tools. Color Convert HEX, RGB, HSL and CMYK. Color Inspection with Camera.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 40) [InstaShare](https://github.com/nyancodeid/insta-share) - `Instant File Sharing powered by IPFS Networks. Build with Vue 3 and ViteJS` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 (⭐ 22) [Inspect CSS](https://github.com/Kholid060/inspect-css) - `The easiest way to inspect and edit CSS` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 158) [Inside Heartz WhatsApp Bot](https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot) - `A multipurpose whatsapp bot buillt on node.js` *by [taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
