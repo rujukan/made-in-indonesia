@@ -70,6 +70,7 @@
 - (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 - (⭐ 5) [Fimail](https://github.com/feri-irawan/fimail) - `Layanan pengirim pesan elektronik (email) dengan API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 - (⭐ 26) [FotonGo](https://github.com/fachryansyah/fotongo) - `Simple boilerplate for building Backend services like ExpressJS with GOFIBER` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
+- (⭐ 5) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
