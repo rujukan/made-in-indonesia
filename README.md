@@ -52,6 +52,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="E"> </a>E
+- (⭐ 81) [encryptlab](https://github.com/bl0cknumber/encryptlab) - `Comprehensive (and free) list of encryption and decryption in Node.js.` *by [Fauzan](https://github.com/bl0cknumber)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
