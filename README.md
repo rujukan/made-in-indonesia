@@ -145,6 +145,7 @@
 - (⭐ 158) [PUEBI Daring](https://github.com/ivanlanin/puebi) - `Pedoman Umum Ejaan Bahasa Indonesia` *by [Ivan Lanin](https://github.com/ivanlanin)*
 - (⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
 - (⭐ 1) [PkDx: A PokeDex app](https://github.com/svspicious/pkdx) - `A simple pokedex web app built with react.js, typescript, & love` *by [Wisesa](https://github.com/svspicious)*
+- (⭐ 107) [PHUNT](https://github.com/Kristories/phunt) - `Product Hunt Command Line Interface` *by [Wahyu Kristianto](https://github.com/Kristories)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
