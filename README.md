@@ -40,6 +40,7 @@
 - (⭐ 374) [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - `Cross-platform colour copy paste from phone's camera to web, figma and sketch plugin` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 86) [Cek Ejaan Figma Plugin](https://github.com/sonnylazuardi/cek-ejaan) - `Gramatika Figma Plugin: Spell Checking (Grammarly) for Bahasa Indonesia. This makes it easy to check the typo or spelling mistakes in your design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 53) [Chakra-Icons](https://github.com/kodingdotninja/chakra-icons) - `Transform SVG to React Chakra UI <Icon />` *by [Koding Ninja](https://github.com/kodingdotninja)*
+- (⭐ 3) [Cpanel Password Reset Tools](https://github.com/naufalardhani/cpanel-pass-reset) - `An easy tool to reset cpanel password when you can't upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
