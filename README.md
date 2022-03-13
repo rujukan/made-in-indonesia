@@ -121,6 +121,7 @@
 - (⭐ 364) [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) - `Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.` *by [Laravolt](https://github.com/laravolt)*
 - (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
 - (⭐ 19) [Lyrics Finder](https://github.com/angeloanan/lyrics-finder) - `Search the lyrics to your music with Lyrics Finder` *by [Angelo](https://github.com/angeloanan)*
+- (⭐ 7) [LRU-SEND](https://github.com/tinyhttp/lru-send) - `LRU-based caching middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
