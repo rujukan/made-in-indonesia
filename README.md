@@ -201,6 +201,7 @@
 - (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
 - (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 26) [reactplate](https://github.com/bl0cknumber/reactplate) - `A Minimal Setup & Fast Boilerplate for React.js with Vite.` *by [Fauzan](https://github.com/bl0cknumber)*
+- (⭐ 30) [React Mazer UI](https://github.com/fachryansyah/react-mazer-ui) - `Reusable component Reactjs for Mazer Template, Free and Open-Source` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
