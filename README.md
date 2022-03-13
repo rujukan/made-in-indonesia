@@ -70,6 +70,7 @@
 - (⭐ 72) [gramatika.app](https://github.com/sonnylazuardi/gramatika.app) - `Website of Gramatika check spelling and typo tools in Bahasa Indonesia` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 185) [Grosir Obat](https://github.com/nafiesl/grosir-obat) - `Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 31) [gridjs-svelte](https://github.com/iamyuu/gridjs-svelte) - `A Svelte wrapper component for Grid.js` *by [Muhammad Yusuf](https://github.com/iamyuu)*
+- (⭐ 18) [Graphene](https://github.com/teknologi-umum/graphene) - `Lighter Carbon alternative made with Shiki` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
