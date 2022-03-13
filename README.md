@@ -251,6 +251,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## <a name="Y"> </a>Y
 - (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
+- (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
