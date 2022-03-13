@@ -24,6 +24,7 @@
 - (⭐ 26) [Daftar Kata Baku dan Tidak Baku](https://github.com/lantip/baku-tidak-baku) - `Kumpulan kata baku dan tidak baku menurut KBBI` *by [Rony Lantip](https://github.com/lantip)*
 - (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
+- (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
