@@ -154,6 +154,7 @@
 - (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
 - (⭐ 0) [next-tabley](https://github.com/alfianandinugraha/next-tabley) - `Using React-Table and Chakra UI to create powerful table` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 - (⭐ 42) [nuxewind](https://github.com/zuramai/nuxewind) - `Open Source Vue JS (Nuxt) Tailwind Admin Dashboard Template` *by [Ahmad Saugi](https://github.com/zuramai)*
+- (⭐ 32) [nuxt-web3](https://github.com/bl0cknumber/nuxt-web3) - `Web3.js module integration for Nuxt` *by [Fauzan](https://github.com/bl0cknumber)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
