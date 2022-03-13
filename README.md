@@ -29,6 +29,7 @@
 - (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
 - (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
 - (⭐ 11) [Bob - SQL Query Builder](https://github.com/aldy505/bob) - `SQL query builder for Go. Might also be used as an extension for Squirrel.` *by [Reinaldy Rafli](https://github.com/aldy505)*
+- (⭐ 3) [bapa](https://github.com/drepram/bapa) - `A template text filler for a Bible Reading Group checklist written in VanillaJS` *by [Andre Christoga Pramaditya](https://github.com/drepram)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
