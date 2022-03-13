@@ -215,6 +215,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="V"> </a>V
+- (⭐ 223) [Video Stream](https://github.com/levina-lab/video-stream) - `video stream is a Telegram Music+Video Streamer Bot written in Python with Pyrogram and Py-TgCalls with lots of useful features` *by [levina](https://github.com/levina-lab)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
