@@ -207,6 +207,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 - (⭐ 84) [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - `HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
 - (⭐ 22) [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - `A frontend framework that can help you write performant complex web feature with low dev time and resource cost.` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
+- (⭐ 7) [Seletube](https://github.com/alfianandinugraha/seletube) - `YouTube Playlist Downloader arrow_forward. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
