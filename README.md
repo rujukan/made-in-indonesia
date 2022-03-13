@@ -132,6 +132,7 @@
 - (⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
 - (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+- (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
