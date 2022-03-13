@@ -277,6 +277,8 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="Z"> </a>Z
+- (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
+
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
