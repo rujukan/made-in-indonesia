@@ -50,6 +50,7 @@
 - (⭐ 16) [Decimal Clock](https://github.com/teknologi-umum/decimal-clock) - `1 day = 10 decimal hours, 1 decimal hour = 100 decimal minutes, 1 decimal minute = 100 decimal seconds` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 - (⭐ 43) [Devover Forum](https://github.com/devoverid/forum) - `a Opensource Forum Web with Tailwinds and Laravel` *by [DevoverID](https://github.com/devoverid)*
 - (⭐ 57) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
+- (⭐ 120) [DWAdmin](https://github.com/andre12001/DWAdmin-Template) - `DWAdmin is a dashboard website made of bootstrap 4 and css and other libraries. This template is very light and suitable for use by companies and other things.` *by [Andre Tri Ramadana](https://github.com/andre12001)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
