@@ -91,6 +91,7 @@
 
 ## <a name="J"> </a>J
 - (⭐ 11) [Jago Sholat](https://github.com/amirisback/jago-sholat) - `Muslim Mobile Apps, Aplikasi berbasis android yang di khususkan untuk pencatatan sholat` *by [Faisal Amir](https://github.com/amirisback)*
+- (⭐ 26) [Jokes Bapak2 Image API](https://github.com/aldy505/jokes-bapak2) - `Image API for Indonesian dad jokes / Jokes Bapak2 (currently on alpha)` *by [Reinaldy Rafli](https://github.com/aldy505)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
