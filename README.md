@@ -69,6 +69,7 @@
 - (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 - (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 - (⭐ 5) [Fimail](https://github.com/feri-irawan/fimail) - `Layanan pengirim pesan elektronik (email) dengan API.` *by [Feri Irawan](https://github.com/feri-irawan)*
+- (⭐ 26) [FotonGo](https://github.com/fachryansyah/fotongo) - `Simple boilerplate for building Backend services like ExpressJS with GOFIBER` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
