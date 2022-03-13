@@ -61,6 +61,7 @@
 - (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 - (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
+- (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
