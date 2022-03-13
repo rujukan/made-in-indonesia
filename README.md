@@ -59,6 +59,7 @@
 - (⭐ 19) [fav](https://github.com/Namchee/fav) - `Embrace favicons the modern way rocket. Inspired by EvilMartian's blogpost.` *by [Cristopher](https://github.com/Namchee)*
 - (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
+- (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
