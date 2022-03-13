@@ -113,6 +113,7 @@
 - (⭐ 48) [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) - `Kelas Rumah Berbagi` *by [Zain Fathoni](https://github.com/zainfathoni)*
 - (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 3) [Komo](https://github.com/ai-null/komo) - `video player app using electron and react` *by [Ainul](https://github.com/ai-null)*
+- (⭐ 43) [Kait-Admin](https://github.com/devoverid/kait-admin) - `A Free VueJS + TailwindCSS Admin Template` *by [DevoverID](https://github.com/devoverid)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
