@@ -233,6 +233,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="Y"> </a>Y
+- (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
