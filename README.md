@@ -200,6 +200,7 @@
 - (⭐ 7) [quran](https://github.com/fiqryq/quran-digital) - `simple Al-quran digital using vue 2.` *by [Fiqry choerudin](https://github.com/fiqryq)*
 - (⭐ 24) [Quran API ID](https://github.com/renomureza/quran-api-id) - `REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat.` *by [R.M. Reza](https://github.com/renomureza)*
 - (⭐ 8) [QURAN](https://github.com/Kristories/quran) - `This repository is intended for transliteration, translation, edition, and structure management.` *by [Wahyu Kristianto](https://github.com/Kristories)*
+- (⭐ 4) [quiz-app](https://github.com/gibran-abdillah/quiz-app) - `Quiz Web App with Flask and MongoDB as the Databases` *by [gibran abdillah](https://github.com/gibran-abdillah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
