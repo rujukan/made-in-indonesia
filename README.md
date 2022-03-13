@@ -185,6 +185,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 1231) [Sudomy](https://github.com/screetsec/Sudomy) - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
 - (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 - (⭐ 84) [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - `HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
+- (⭐ 22) [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - `A frontend framework that can help you write performant complex web feature with low dev time and resource cost.` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
