@@ -52,6 +52,7 @@
 - (⭐ 10) [flair-kit monorepo](https://github.com/jackyef/flair) - `Collections of ready-to-use, accessible React components. Dark-mode and SSR support included.` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 19) [fav](https://github.com/Namchee/fav) - `Embrace favicons the modern way rocket. Inspired by EvilMartian's blogpost.` *by [Cristopher](https://github.com/Namchee)*
 - (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
+- (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
