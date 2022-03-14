@@ -163,6 +163,7 @@
 - (⭐ 7) [LRU-SEND](https://github.com/tinyhttp/lru-send) - `LRU-based caching middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 3) [Laravel RajaOngkir API Wrapper](https://github.com/kodepandai/laravel-rajaongkir) - `Integrate RajaOngkir API with laravel` *by [Kode Pandai](https://github.com/kodepandai)*
 - (⭐ 1) [Lunox-framework](https://github.com/kodepandai/lunox-framework) - `This is Lunox Framework. What is Lunox? Lunox is Laravel-Flavoured NodeJs framework.` *by [Kode Pandai](https://github.com/kodepandai)*
+- (⭐ 0) [Loyalku](https://github.com/xerod/loyalku) - `Loyalku analyzed data from MOKA POS system` *by [Akramurridjal Rahman](https://github.com/xerod)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
