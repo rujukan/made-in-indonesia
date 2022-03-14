@@ -234,6 +234,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 4) [Snake Boxes](https://github.com/BillyFrcs/SnakeBoxes) - `Simple 3D Snake Game Snake Boxes.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 3) [Sunda.js](https://github.com/masnormen/sunda.js) - `Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
+- (⭐ 2) [Runner Man](https://github.com/BillyFrcs/RunnerMan) - `Simple Endless Runner Game Runner Man.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
 - (⭐ 1) [Shooter Glow](https://github.com/BillyFrcs/ShooterGlow) - `Simple 2D Shooter Game, Shooter Glow` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 1) [Racer Eternity](https://github.com/BillyFrcs/RacerEternity) - `Car Driving Simulator Game Racer Eternity.` *by [Billy Franscois](https://github.com/BillyFrcs)*
