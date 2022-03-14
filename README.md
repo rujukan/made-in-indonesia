@@ -298,6 +298,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 9) [Windgraph](https://github.com/Namchee/windgraph) - `Tailwind CSS powered open graph generator` *by [Cristopher](https://github.com/Namchee)*
 - (⭐ 7) [Writter](https://github.com/kontenbase-team/writter) - `A very simple Twitter clone with Remix and Kontenbase. Just a demo, not meant to be 100%` *by [Kontenbase Team](https://github.com/kontenbase-team)*
+- (⭐ 3) [Wiz](https://github.com/kimlimjustin/wiz) - `A simple, frameless, and lightweight browser for sceenshots` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 - (⭐ 2) [WaktuShalat](https://github.com/Arpha01/WaktuShalat) - `WaktuShalat adalah sebuah Aplikasi opensource yang berfungsi sebagai sarana pengingat untuk menjalankan ibadah.` *by [Muhammad Arfan](https://github.com/Arpha01)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
