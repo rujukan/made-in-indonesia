@@ -62,6 +62,7 @@
 
 ## <a name="E"> </a>E
 - (⭐ 81) [encryptlab](https://github.com/bl0cknumber/encryptlab) - `Comprehensive (and free) list of encryption and decryption in Node.js.` *by [Fauzan](https://github.com/bl0cknumber)*
+- (⭐ 31) [Express Model View Controller Pattern (MVC)](https://github.com/restuwahyu13/express-mvc-pattern) - `example nodejs framework using express implementation design pattern using mvc architecture` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
