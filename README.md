@@ -251,6 +251,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 7) [Seletube](https://github.com/alfianandinugraha/seletube) - `YouTube Playlist Downloader arrow_forward. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 - (⭐ 5) [Snake Lol](https://github.com/BillyFrcs/SnakeLol) - `Simple 2D Snake Game Snake Lol.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 4) [Snake Boxes](https://github.com/BillyFrcs/SnakeBoxes) - `Simple 3D Snake Game Snake Boxes.` *by [Billy Franscois](https://github.com/BillyFrcs)*
+- (⭐ 3) [sen.js](https://github.com/jamastek/sen) - `Sen.js: The modern Next.js & GraphQL boilerplate` *by [Jamastek](https://github.com/jamastek)*
 - (⭐ 3) [Sunda.js](https://github.com/masnormen/sunda.js) - `Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
 - (⭐ 2) [Runner Man](https://github.com/BillyFrcs/RunnerMan) - `Simple Endless Runner Game Runner Man.` *by [Billy Franscois](https://github.com/BillyFrcs)*
