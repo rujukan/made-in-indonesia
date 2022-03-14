@@ -229,6 +229,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 19) [Sistem Informasi Perpustakaan](https://github.com/fauzan1892/perpus-ci3) - `Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 - (⭐ 9) [sekolah](https://github.com/hendisantika/sekolah) - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
 - (⭐ 7) [Seletube](https://github.com/alfianandinugraha/seletube) - `YouTube Playlist Downloader arrow_forward. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+- (⭐ 4) [Snake Boxes](https://github.com/BillyFrcs/SnakeBoxes) - `Simple 3D Snake Game Snake Boxes.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 3) [Sunda.js](https://github.com/masnormen/sunda.js) - `Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
 - (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
