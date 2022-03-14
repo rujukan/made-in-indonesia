@@ -90,6 +90,7 @@
 - (⭐ 50) [Golang Gin Framework Fundamental](https://github.com/restuwahyu13/gin-rest-api) - `Example golang using gin framework everything you need, i create this tutorial special for beginner.` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 - (⭐ 31) [gridjs-svelte](https://github.com/iamyuu/gridjs-svelte) - `A Svelte wrapper component for Grid.js` *by [Muhammad Yusuf](https://github.com/iamyuu)*
 - (⭐ 30) [getsubdomain](https://github.com/abaykan/getsubdomain) - `Get subdomain list and check whether they are active or not by each response code. Using API by c99.nl` *by [abay](https://github.com/abaykan)*
+- (⭐ 28) [Golang Clean Architecture](https://github.com/restuwahyu13/go-clean-architecture) - `Example go clean architecture folder pattern` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 - (⭐ 18) [Graphene](https://github.com/teknologi-umum/graphene) - `Lighter Carbon alternative made with Shiki` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 - (⭐ 4) [genmypass](https://github.com/alfianandinugraha/genmypass) - `Generate random password with Javascript` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 - (⭐ 0) [Gitgram](https://github.com/teknologi-umum/gitgram) - `Github notifications for Telegram` *by [Teknologi Umum](https://github.com/teknologi-umum)*
