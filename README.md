@@ -136,6 +136,7 @@
 ## <a name="K"> </a>K
 - (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
+- (⭐ 56) [kbbi-python](https://github.com/laymonage/kbbi-python) - `A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id)` *by [Sage Abdullah](https://github.com/laymonage)*
 - (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 49) [Kyros](https://github.com/p4kl0nc4t/kyros) - `Python wrapper for WhatsApp Web API websocket communication` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
 - (⭐ 48) [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) - `Kelas Rumah Berbagi` *by [Zain Fathoni](https://github.com/zainfathoni)*
