@@ -135,6 +135,7 @@
 - (⭐ 43) [Kait-Admin](https://github.com/devoverid/kait-admin) - `A Free VueJS + TailwindCSS Admin Template` *by [DevoverID](https://github.com/devoverid)*
 - (⭐ 39) [Khanza LITE](https://github.com/basoro/Khanza-Lite) - `SIMKES Khanza versi Ringan. Jalan di sisi server sebagai aplikasi web dan bersifat mobile first (responsive).` *by [Basoro](https://github.com/basoro)*
 - (⭐ 11) [Kanaizu](https://github.com/elianiva/kanaizu) - `This is a simple quiz app that I made as an excuse to try Routify/Svelte and to help my friend memorise Japanese kana. It's not perfect but it's quite usable. Currently there are ~508 words or phrase of hiragana and katakana.` *by [elianiva](https://github.com/elianiva)*
+- (⭐ 4) [Kraken Browser](https://github.com/restuwahyu13/kraken-browser) - `Dependency injection to register module to global access, you can load each given module from kraken config` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 - (⭐ 3) [Komo](https://github.com/ai-null/komo) - `video player app using electron and react` *by [Ainul](https://github.com/ai-null)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
