@@ -85,6 +85,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="G"> </a>G
+- (⭐ 1,565) [giscus](https://github.com/giscus/giscus) - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
 - (⭐ 185) [Grosir Obat](https://github.com/nafiesl/grosir-obat) - `Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 - (⭐ 116) [Globe 3D](https://github.com/sonnylazuardi/globe-3d) - `Convert your design to 3D Globe. Create an Interactive 3D globe based on your flat world map design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 - (⭐ 96) [GraphQL for PokeAPI](https://github.com/mazipan/graphql-pokeapi) - `The Unofficial GraphQL for PokeAPI` *by [Irfan Maulana](https://github.com/mazipan)*
