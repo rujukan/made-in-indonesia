@@ -44,6 +44,7 @@
 - (⭐ 17) [carakanjs](https://github.com/masnormen/carakanjs) - `Convert/transliterate Latin script into Javanese script, also known as Aksara Jawa or Carakan.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 6) [CulpInt](https://github.com/p4kl0nc4t/culpint) - `Web interface for Recon-ng` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
 - (⭐ 3) [Cpanel Password Reset Tools](https://github.com/naufalardhani/cpanel-pass-reset) - `An easy tool to reset cpanel password when you can't upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
+- (⭐ 2) [Corona Runner](https://github.com/BillyFrcs/CoronaRunner) - `2D Endless Runner Game Corona Runner.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
