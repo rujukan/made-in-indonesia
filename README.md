@@ -72,6 +72,7 @@
 - (⭐ 10) [flair-kit monorepo](https://github.com/jackyef/flair) - `Collections of ready-to-use, accessible React components. Dark-mode and SSR support included.` *by [Jacky Efendi](https://github.com/jackyef)*
 - (⭐ 5) [Fimail](https://github.com/feri-irawan/fimail) - `Layanan pengirim pesan elektronik (email) dengan API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 - (⭐ 5) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
+- (⭐ 5) [Fireworks Visual Effect](https://github.com/BillyFrcs/FireworksVFX) - `Awesome Fireworks Visual Effect.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
