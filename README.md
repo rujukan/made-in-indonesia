@@ -109,6 +109,7 @@
 - (⭐ 44) [HikariCP](https://github.com/hendisantika/HikariCP) - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
 - (⭐ 32) [Hugoblog](https://github.com/zuramai/hugoblog) - `Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)` *by [Ahmad Saugi](https://github.com/zuramai)*
 - (⭐ 9) [Holy Quran with Colorful Tajweed Anotation](https://github.com/kodepandai/colorful-quran) - `Holy Qur'an with colorfull tajweed anotation` *by [Kode Pandai](https://github.com/kodepandai)*
+- (⭐ 1) [Gabo](https://github.com/jamastek/gabo) - `Gabo: Gatsbyjs Boilerplate` *by [Jamastek](https://github.com/jamastek)*
 - (⭐ 0) [horizon](https://github.com/RSurya99/horizon) - `Horizon: create custom keycaps for mechanical keyboard easily` *by [Rafli Surya P](https://github.com/RSurya99)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
