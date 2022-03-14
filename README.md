@@ -261,7 +261,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="T"> </a>T
-- (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) - ``TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. *by [Edo Maland](https://github.com/screetsec)*
+- (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
 - (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 - (⭐ 81) [tempe](https://github.com/masbagal/tempe) - `Featherlight (< 2kB) helper for Javascript date formatting` *by [Dimitrij Agal](https://github.com/masbagal)*
@@ -284,6 +284,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 223) [Video Stream](https://github.com/levina-lab/video-stream) - `video stream is a Telegram Music+Video Streamer Bot written in Python with Pyrogram and Py-TgCalls with lots of useful features` *by [levina](https://github.com/levina-lab)*
 - (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
 - (⭐ 24) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
+- (⭐ 8) [VSCode jsdoc-generator](https://github.com/kimlimjustin/vscode-jsdoc-generator) - `VSCode JSDoc comments Generator` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 - (⭐ 2) [Visual Programming](https://github.com/BillyFrcs/VisualProgramming) - `Visual Basic .NET Windows Form Application.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
