@@ -281,6 +281,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
 - (⭐ 14) [Timetheft.js](https://github.com/bl0cknumber/timetheft) - `Timetheft.js - Simple and opinionated library to handle countdown in Javascript` *by [Fauzan](https://github.com/bl0cknumber)*
 - (⭐ 9) [Tebak Masa](https://github.com/ariya/tebakmasa) - `Infer the date and time from the general description in Bahasa Indonesia` *by [Ariya Hidayat](https://github.com/ariya)*
+- (⭐ 5) [Tempeh Engine](https://github.com/shaderboi/tempeh-engine) - `Experimental game engine for a learning purpose` *by [Shaderboi Software](https://github.com/shaderboi)*
 - (⭐ 1) [TafsirQ API](https://github.com/YogaAPSY/tafsirq-api) - `API untuk Al-Quran dan Hadits` *by [Yoga Anugrah Pratama. SY](https://github.com/YogaAPSY)*
 - (⭐ 0) [TungTang - Hitung Tanggal](https://github.com/masbagal/tungtang) - `Aplikasi web sederhana untuk menghitung penanggalan perayaan meninggalnya seseorang` *by [Dimitrij Agal](https://github.com/masbagal)*
 
