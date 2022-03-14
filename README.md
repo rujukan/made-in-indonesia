@@ -76,6 +76,7 @@
 - (⭐ 5) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
 - (⭐ 5) [Fireworks Visual Effect](https://github.com/BillyFrcs/FireworksVFX) - `Awesome Fireworks Visual Effect.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
+- (⭐ 3) [Flappy Bird](https://github.com/BillyFrcs/FlappyBird) - `Flappy Bird Game.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
