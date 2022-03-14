@@ -24,6 +24,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="B"> </a>B
+- (⭐ 502) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
 - (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
 - (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
 - (⭐ 66) [Bangjago Android Emulator (CLI Version)](https://github.com/restuwahyu13/bangjago-android-emulator) - `Simple android emulator cli for mobile development` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
