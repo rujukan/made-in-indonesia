@@ -218,6 +218,7 @@
 - (⭐ 3) [Prawf](https://github.com/elianiva/prawf) - `A simple Pauli Test simulation app made with Typescript, Web Component, and RxJS` *by [elianiva](https://github.com/elianiva)*
 - (⭐ 1) [PkDx: A PokeDex app](https://github.com/svspicious/pkdx) - `A simple pokedex web app built with react.js, typescript, & love` *by [Wisesa](https://github.com/svspicious)*
 - (⭐ 1) [Pray Box](https://github.com/amirisback/pray-box) - `Pray Box, Catat Shalat, Muslim Mobile Apps, Aplikasi berbasis android yang di khususkan untuk pencatatan sholat` *by [Faisal Amir](https://github.com/amirisback)*
+- (⭐ 0) [Pokédex](https://github.com/xerod/pokedex) - `This project use graphql-pokeapi that show Pokemon list and Pokemon details. I'm using window.localStorage Web API to persist data on the browser.` *by [Akramurridjal Rahman](https://github.com/xerod)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
