@@ -175,6 +175,7 @@
 - (⭐ 32) [nuxt-web3](https://github.com/bl0cknumber/nuxt-web3) - `Web3.js module integration for Nuxt` *by [Fauzan](https://github.com/bl0cknumber)*
 - (⭐ 16) [NeoAdzan](https://github.com/cahyadsn/neoadzan) - `NeoAdzan! Islamic PrayerTime Schedule on PHP language.` *by [Cahya DSN](https://github.com/cahyadsn)*
 - (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
+- (⭐ 11) [Node Disk Storage (NDS)](https://github.com/restuwahyu13/node-disk-storage) - `Fast and Secure local storage persistent data for Node JS` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 - (⭐ 2) [Ngobrol Dong App](https://github.com/iyansr/ngobrol-dong) - `Ngobrol is chat application that user track friends location, built with React Native integrated with Firebase and Mapbox` *by [I Putu Saputrayana](https://github.com/iyansr)*
 - (⭐ 0) [next-tabley](https://github.com/alfianandinugraha/next-tabley) - `Using React-Table and Chakra UI to create powerful table` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
