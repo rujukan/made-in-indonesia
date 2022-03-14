@@ -234,6 +234,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 - (⭐ 3) [Sunda.js](https://github.com/masnormen/sunda.js) - `Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.` *by [Nourman Hajar](https://github.com/masnormen)*
 - (⭐ 3) [Sistem Pembayaran SPP Berbasis Web](https://github.com/RSurya99/sistem-pembayaran-spp-django) - `Sistem pembayaran spp sekolah berbasis website` *by [Rafli Surya P](https://github.com/RSurya99)*
 - (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
+- (⭐ 1) [Shooter Glow](https://github.com/BillyFrcs/ShooterGlow) - `Simple 2D Shooter Game, Shooter Glow` *by [Billy Franscois](https://github.com/BillyFrcs)*
 - (⭐ 0) [Skeduler](https://github.com/dafiulh/skeduler) - `Event scheduler build with Firebase` *by [dafiulh](https://github.com/dafiulh)*
 
 
