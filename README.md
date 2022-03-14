@@ -299,6 +299,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## <a name="X"> </a>X
+- (⭐ 2,141) [Xplorer](https://github.com/kimlimjustin/xplorer) - `Xplorer, a customizable, modern file manager` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
