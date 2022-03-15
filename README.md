@@ -31,6 +31,7 @@
 - (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
 - (⭐ 26) [Daftar Kata Baku dan Tidak Baku](https://github.com/lantip/baku-tidak-baku) - `Kumpulan kata baku dan tidak baku menurut KBBI` *by [Rony Lantip](https://github.com/lantip)*
 - (⭐ 19) [Batangan](https://github.com/lantip/batangan) - `Batangan adalah permainan tebak kata dalam bahasa Jawa. Sumber kata dari kamus Poerwadarminta` *by [Rony Lantip](https://github.com/lantip)*
+- (⭐ 12) [Barka](https://github.com/dikisiswanto/barka) - `Tema untuk CMS Sekolahku` *by [Diki Siswanto](https://github.com/dikisiswanto)*
 - (⭐ 11) [Bob - SQL Query Builder](https://github.com/aldy505/bob) - `SQL query builder for Go. Might also be used as an extension for Squirrel.` *by [Reinaldy Rafli](https://github.com/aldy505)*
 - (⭐ 5) [Baileys Wabot](https://github.com/moo-d/termux-whatsapp-bot) - `Bot WhatsApp with NodeJS` *by [ナスワサルサ](https://github.com/moo-d)*
 - (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
