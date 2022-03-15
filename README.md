@@ -230,6 +230,7 @@
 - (⭐ 8) [QURAN](https://github.com/Kristories/quran) - `This repository is intended for transliteration, translation, edition, and structure management.` *by [Wahyu Kristianto](https://github.com/Kristories)*
 - (⭐ 7) [quran](https://github.com/fiqryq/quran-digital) - `simple Al-quran digital using vue 2.` *by [Fiqry choerudin](https://github.com/fiqryq)*
 - (⭐ 4) [quiz-app](https://github.com/gibran-abdillah/quiz-app) - `Quiz Web App with Flask and MongoDB as the Databases` *by [gibran abdillah](https://github.com/gibran-abdillah)*
+- (⭐ 0) [Quran Randomizer](https://github.com/Ucok23/quran-randomizer) - `API that return random one ayah from quran on every request, good for "one day one ayah" app` *by [Ucok I. L](https://github.com/Ucok23)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
