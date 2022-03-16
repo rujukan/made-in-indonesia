@@ -3,11 +3,11 @@
 > Daftar project OSS (Open source Software - Perangkat lunak sumber terbuka) yang dibuat oleh orang indonesia.
 
 <p align="center">
- <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a> | <a href="#2">2</a>
+ <a href="#-a">A</a> | <a href="#-b">B</a> | <a href="#-c">C</a> | <a href="#-d">D</a> | <a href="#-e">E</a> | <a href="#-f">F</a> | <a href="#-g">G</a> | <a href="#-h">H</a> | <a href="#-i">I</a> | <a href="#-j">J</a> | <a href="#-k">K</a> | <a href="#-l">L</a> | <a href="#-m">M</a> | <a href="#-n">N</a> | <a href="#-o">O</a> | <a href="#-p">P</a> | <a href="#-q">Q</a> | <a href="#-r">R</a> | <a href="#-s">S</a> | <a href="#-t">T</a> | <a href="#-u">U</a> | <a href="#-v">V</a> | <a href="#-w">W</a> | <a href="#-x">X</a> | <a href="#-y">Y</a> | <a href="#-z">Z</a> | <a href="#-2">2</a>
 </p>
 
 
-## <a name="A"> </a>A 
+## A 
 1. (⭐ 3,565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
 1. (⭐ 1,543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 1. (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
@@ -23,7 +23,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="B"> </a>B
+## B
 1. (⭐ 502) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
 1. (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
@@ -41,7 +41,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="C"> </a>C
+## C
 1. (⭐ 374) [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - `Cross-platform colour copy paste from phone's camera to web, figma and sketch plugin` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 86) [Cek Ejaan Figma Plugin](https://github.com/sonnylazuardi/cek-ejaan) - `Gramatika Figma Plugin: Spell Checking (Grammarly) for Bahasa Indonesia. This makes it easy to check the typo or spelling mistakes in your design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 74) [Compose playground: To Do List App](https://github.com/wisnukurniawan/Compose-ToDo) - `iOS reminder app clone built with Jetpack Compose` *by [Wisnu Kurniawan](https://github.com/wisnukurniawan)*
@@ -55,7 +55,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="D"> </a>D
+## D
 1. (⭐ 120) [DWAdmin](https://github.com/andre12001/DWAdmin-Template) - `DWAdmin is a dashboard website made of bootstrap 4 and css and other libraries. This template is very light and suitable for use by companies and other things.` *by [Andre Tri Ramadana](https://github.com/andre12001)*
 1. (⭐ 118) [Dompet](https://github.com/nafiesl/dompet) - `A personal bookkeeping web application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 57) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
@@ -67,14 +67,14 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="E"> </a>E
+## E
 1. (⭐ 81) [encryptlab](https://github.com/bl0cknumber/encryptlab) - `Comprehensive (and free) list of encryption and decryption in Node.js.` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 31) [Express Model View Controller Pattern (MVC)](https://github.com/restuwahyu13/express-mvc-pattern) - `example nodejs framework using express implementation design pattern using mvc architecture` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 3) [ecommerce](https://github.com/kimlimjustin/ecommerce) - `Web-based Ecommerce platform built using django` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="F"> </a>F
+## F
 1. (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 1. (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 26) [FotonGo](https://github.com/fachryansyah/fotongo) - `Simple boilerplate for building Backend services like ExpressJS with GOFIBER` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
@@ -90,7 +90,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="G"> </a>G
+## G
 1. (⭐ 1,565) [giscus](https://github.com/giscus/giscus) - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 185) [Grosir Obat](https://github.com/nafiesl/grosir-obat) - `Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 116) [Globe 3D](https://github.com/sonnylazuardi/globe-3d) - `Convert your design to 3D Globe. Create an Interactive 3D globe based on your flat world map design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
@@ -109,7 +109,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="H"> </a>H
+## H
 1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
 1. (⭐ 468) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 147) [Hadith - API](https://github.com/sutanlab/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/sutanlab)*
@@ -121,7 +121,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="I"> </a>I
+## I
 1. (⭐ 158) [Inside Heartz WhatsApp Bot](https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot) - `A multipurpose whatsapp bot buillt on node.js` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 96) [IRO](https://github.com/nyancodeid/iro) - `IRO - Amazing Color Tools. Color Convert HEX, RGB, HSL and CMYK. Color Inspection with Camera.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 40) [InstaShare](https://github.com/nyancodeid/insta-share) - `Instant File Sharing powered by IPFS Networks. Build with Vue 3 and ViteJS` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
@@ -131,7 +131,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="J"> </a>J
+## J
 1. (⭐ 26) [Jokes Bapak2 Image API](https://github.com/aldy505/jokes-bapak2) - `Image API for Indonesian dad jokes / Jokes Bapak2 (currently on alpha)` *by [Reinaldy Rafli](https://github.com/aldy505)*
 1. (⭐ 16) [jscontext](https://github.com/bl0cknumber/jscontext) - `Comprehensive way to making context for your NodeJS web application` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 16) [JWT Transform](https://github.com/restuwahyu13/jwt-transform) - `Transform your real jwt token into fake jwt token.` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
@@ -139,7 +139,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="K"> </a>K
+## K
 1. (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 56) [kbbi-python](https://github.com/laymonage/kbbi-python) - `A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id)` *by [Sage Abdullah](https://github.com/laymonage)*
@@ -155,7 +155,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="L"> </a>L
+## L
 1. (⭐ 364) [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) - `Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.` *by [Laravolt](https://github.com/laravolt)*
 1. (⭐ 242) [Learnify](https://github.com/syauqi/learnify) - `Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.` *by [Syauqizaidan](https://github.com/syauqi)*
 1. (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
@@ -170,7 +170,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="M"> </a>M
+## M
 1. (⭐ 966) [Mazer Dashboard](https://github.com/zuramai/mazer) - `Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
 1. (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
@@ -183,7 +183,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="N"> </a>N
+## N
 1. (⭐ 141) [naskah](https://github.com/pveyes/naskah) - `Bahasa pemrograman dengan sintaks Bahasa Indonesia (Programming language with Indonesian syntax) indonesia` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 90) [Notiolink](https://github.com/theodorusclarence/notiolink) - `Self-hostable branded link shortener built with Next.js & Notion API` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 1. (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
@@ -197,7 +197,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="O"> </a>O
+## O
 1. (⭐ 690) [OpenSID - Sistem Informasi Desa](https://github.com/OpenSID/OpenSID) - `Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID` *by [Perkumpulan Desa Digital Terbuka](https://opendesa.id/)*
 1. (⭐ 1) [OpenGL Graphics API](https://github.com/BillyFrcs/OpenGLGraphics) - `2D & 3D Rendering Vector Graphics with Modern OpenGL C++.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 1. (⭐ 1) [OwnTest](https://github.com/rahmatagungj/owntest) - `Simple JavaScript Testing Framework with only one file and zero dependencies.` *by [Rahmat Agung Julians](https://github.com/rahmatagungj)*
@@ -205,7 +205,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="P"> </a>P
+## P
 1. (⭐ 28,764) [PhantomJS - Scriptable Headless WebKit](https://github.com/ariya/phantomjs) - `Scriptable Headless Browser` *by [Ariya Hidayat](https://github.com/ariya)*
 1. (⭐ 158) [PUEBI Daring](https://github.com/ivanlanin/puebi) - `Pedoman Umum Ejaan Bahasa Indonesia` *by [Ivan Lanin](https://github.com/ivanlanin)*
 1. (⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
@@ -225,7 +225,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="Q"> </a>Q
+## Q
 1. (⭐ 414) [Quran - API](https://github.com/sutanlab/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/sutanlab)*
 1. (⭐ 58) [Quote's Project](https://github.com/nyancodeid/quotes) - `Website sederhana yang menampilkan Kutipan Inspirasional secara acak.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 24) [Quran API ID](https://github.com/renomureza/quran-api-id) - `REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat.` *by [R.M. Reza](https://github.com/renomureza)*
@@ -237,7 +237,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="R"> </a>R
+## R
 1. (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 30) [React Mazer UI](https://github.com/fachryansyah/react-mazer-ui) - `Reusable component Reactjs for Mazer Template, Free and Open-Source` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
@@ -247,7 +247,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="S"> </a>S
+## S
 1. (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 1. (⭐ 1,231) [Sudomy](https://github.com/screetsec/Sudomy) - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
 1. (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
@@ -280,7 +280,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="T"> </a>T
+## T
 1. (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
 1. (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
@@ -295,13 +295,13 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="U"> </a>U
+## U
 1. (⭐ 93) [UNK](https://github.com/herpiko/unk) - `UNK stands for Ultimate Ngoprek Keyboard` *by [Herpiko Dwi Aguno](https://github.com/herpiko)*
 1. (⭐ 11) [UANGKU - EASY TRACKING YOUR MONEY](https://github.com/maulayyacyber/uangku-laravel) - `Management Money With Laravel` *by [Fika Ridaul Maulayya](https://github.com/maulayyacyber)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="V"> </a>V
+## V
 1. (⭐ 359) [Voler](https://github.com/zuramai/voler) - `The first Bootstrap 5 admin dashboard template` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 223) [Video Stream](https://github.com/levina-lab/video-stream) - `video stream is a Telegram Music+Video Streamer Bot written in Python with Pyrogram and Py-TgCalls with lots of useful features` *by [levina](https://github.com/levina-lab)*
 1. (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
@@ -311,7 +311,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="W"> </a>W
+## W
 1. (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
 1. (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
 1. (⭐ 330) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
@@ -325,18 +325,18 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="X"> </a>X
+## X
 1. (⭐ 2,141) [Xplorer](https://github.com/kimlimjustin/xplorer) - `Xplorer, a customizable, modern file manager` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="Y"> </a>Y
+## Y
 1. (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="Z"> </a>Z
+## Z
 1. (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
 1. (⭐ 14) [zman](https://github.com/azzamsa/zman) - `A time progress bar utilities` *by [Azzam S.A.](https://github.com/azzamsa)*
 1. (⭐ 4) [ZippyDamn-lib!](https://github.com/diosamuel/zippydamn-lib) - `ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs` *by [Virdio Samuel](https://github.com/diosamuel)*
@@ -344,7 +344,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-## <a name="2"> </a>2
+## 2
 1. (⭐ 1) [2D Sprite Animation](https://github.com/BillyFrcs/2DSpriteAnimation) - `2D Sprite Animation And Movement.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
