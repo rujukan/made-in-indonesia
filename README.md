@@ -336,6 +336,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## <a name="Z"> </a>Z
 - (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
+- (⭐ 14) [zman](https://github.com/azzamsa/zman) - `A time progress bar utilities` *by [Azzam S.A.](https://github.com/azzamsa)*
 - (⭐ 4) [ZippyDamn-lib!](https://github.com/diosamuel/zippydamn-lib) - `ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs` *by [Virdio Samuel](https://github.com/diosamuel)*
 
 
