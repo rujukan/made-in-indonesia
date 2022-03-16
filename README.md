@@ -165,6 +165,7 @@
 1. (⭐ 12) [LhokUtang](https://github.com/theodorusclarence/lhokutang) - `App to track debt with your housemates` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 1. (⭐ 11) [Lunox](https://github.com/kodepandai/lunox) - `Lunox is Laravel-Flavoured NodeJs Framework. What is Laravel? Laravel is a web application framework with expressive, elegant syntax see the official website. Lunox goals is to bring the Laravel Flavour to nodejs environment.` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 7) [LRU-SEND](https://github.com/tinyhttp/lru-send) - `LRU-based caching middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+1. (⭐ 4) [Last Mile Delivery API](https://github.com/empeje/last-mile-delivery) - `An (sample) API Implementation of last mile delivery written in Node.js` *by [mpj](https://github.com/empeje)*
 1. (⭐ 3) [Laravel RajaOngkir API Wrapper](https://github.com/kodepandai/laravel-rajaongkir) - `Integrate RajaOngkir API with laravel` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 1) [Lunox-framework](https://github.com/kodepandai/lunox-framework) - `This is Lunox Framework. What is Lunox? Lunox is Laravel-Flavoured NodeJs framework.` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 0) [Loyalku](https://github.com/xerod/loyalku) - `Loyalku analyzed data from MOKA POS system` *by [Akramurridjal Rahman](https://github.com/xerod)*
