@@ -39,15 +39,19 @@ li em a {
     color: #ffd300;
     text-shadow: 1px 1px 1px #1a1a01;
 }
-p a {
+p[align="center"] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+p[align="center"] a {
     font-size: 1.3rem;
-    padding: 0 1.2rem;
-    background: #fed438;
-    box-shadow: 0px 0px 3px #4ab736;
-    border-radius: 1em;
-    color: #1b1331;
-    border: 1px solid #000;
-    line-height: 2;
+    padding: 0.1em 1em;
+    background: #281e48;
+    box-shadow: inset -2px -2px 8px #100a1f;
+    color: #ffffff;
+    margin: 5px;
 }
 p a[href="#-made-in-indonesia"] {
     background: none;
