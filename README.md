@@ -127,6 +127,7 @@
 - (⭐ 40) [InstaShare](https://github.com/nyancodeid/insta-share) - `Instant File Sharing powered by IPFS Networks. Build with Vue 3 and ViteJS` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 28) [Idnaive](https://github.com/bl0cknumber/idnaive) - `A Simple Node.js Naive Bayes Library.` *by [Fauzan](https://github.com/bl0cknumber)*
 - (⭐ 22) [Inspect CSS](https://github.com/Kholid060/inspect-css) - `The easiest way to inspect and edit CSS` *by [Ahmad Kholid](https://github.com/Kholid060)*
+- (⭐ 19) [irgsh-go](https://github.com/BlankOn/irgsh-go) - `An all-in-one tool to create and maintain Debian-derived GNU/Linux distribution: from packaging to repository, from ISO build to release management.` *by [BlankOn](https://github.com/BlankOn)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
