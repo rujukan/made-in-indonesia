@@ -36,6 +36,7 @@
 - (⭐ 5) [Baileys Wabot](https://github.com/moo-d/termux-whatsapp-bot) - `Bot WhatsApp with NodeJS` *by [ナスワサルサ](https://github.com/moo-d)*
 - (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 - (⭐ 3) [bapa](https://github.com/drepram/bapa) - `A template text filler for a Bible Reading Group checklist written in VanillaJS` *by [Andre Christoga Pramaditya](https://github.com/drepram)*
+- (⭐ 2) [Bilal](https://github.com/azzamsa/bilal) - `A CLI salah time written in Rust` *by [Azzam S.A.](https://github.com/azzamsa)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
