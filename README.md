@@ -191,6 +191,7 @@
 1. (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
 1. (⭐ 42) [nuxewind](https://github.com/zuramai/nuxewind) - `Open Source Vue JS (Nuxt) Tailwind Admin Dashboard Template` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 32) [nuxt-web3](https://github.com/bl0cknumber/nuxt-web3) - `Web3.js module integration for Nuxt` *by [Fauzan](https://github.com/bl0cknumber)*
+1. (⭐ 23) [ngecilin](https://github.com/kulkultech/ngecilin) - `Chrome Extension to shorten your looooong URL` *by [Kulkul Technology](https://github.com/kulkultech)*
 1. (⭐ 16) [NeoAdzan](https://github.com/cahyadsn/neoadzan) - `NeoAdzan! Islamic PrayerTime Schedule on PHP language.` *by [Cahya DSN](https://github.com/cahyadsn)*
 1. (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
 1. (⭐ 11) [Node Disk Storage (NDS)](https://github.com/restuwahyu13/node-disk-storage) - `Fast and Secure local storage persistent data for Node JS` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
