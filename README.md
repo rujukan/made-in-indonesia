@@ -143,7 +143,8 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## K
-1. (⭐ 156) [ksana.in]()https://github.com/mazipan/ksana.in - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
+1. (⭐ 526) [Klisé](https://github.com/piharpi/jekyll-klise) - `Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support.` *by [Harπ](https://github.com/piharpi)*
+1. (⭐ 156) [ksana.in](https://github.com/mazipan/ksana.in) - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 56) [kbbi-python](https://github.com/laymonage/kbbi-python) - `A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id)` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
