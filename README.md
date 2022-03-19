@@ -106,6 +106,7 @@
 1. (⭐ 30) [getsubdomain](https://github.com/abaykan/getsubdomain) - `Get subdomain list and check whether they are active or not by each response code. Using API by c99.nl` *by [abay](https://github.com/abaykan)*
 1. (⭐ 29) [Google Keep Clone](https://github.com/kimlimjustin/google-keep-clone) - `Clone of Google Keep built using Django and Javascript` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 28) [Golang Clean Architecture](https://github.com/restuwahyu13/go-clean-architecture) - `Example go clean architecture folder pattern` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
+1. (⭐ 19) [Gorou](https://github.com/zhycorp/gorou) - `Open-source Discord music bot with Lavalink featured with an awesome new thing on Discord.` *by [Zhycorp Development](https://github.com/zhycorp)*
 1. (⭐ 18) [Graphene](https://github.com/teknologi-umum/graphene) - `Lighter Carbon alternative made with Shiki` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 4) [genmypass](https://github.com/alfianandinugraha/genmypass) - `Generate random password with Javascript` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 1. (⭐ 0) [Gitgram](https://github.com/teknologi-umum/gitgram) - `Github notifications for Telegram` *by [Teknologi Umum](https://github.com/teknologi-umum)*
