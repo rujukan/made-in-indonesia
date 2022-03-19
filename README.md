@@ -296,6 +296,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 14) [Timetheft.js](https://github.com/bl0cknumber/timetheft) - `Timetheft.js - Simple and opinionated library to handle countdown in Javascript` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 9) [Tebak Masa](https://github.com/ariya/tebakmasa) - `Infer the date and time from the general description in Bahasa Indonesia` *by [Ariya Hidayat](https://github.com/ariya)*
 1. (⭐ 5) [Tempeh Engine](https://github.com/shaderboi/tempeh-engine) - `Experimental game engine for a learning purpose` *by [Shaderboi Software](https://github.com/shaderboi)*
+1. (⭐ 3) [Tiny HTTP Client](https://github.com/hansputera/tiny-http) - `Tiny HTTP Client with zero dependency.` *by [Hanif Dwy Putra S](https://github.com/hansputera)*
 1. (⭐ 1) [TafsirQ API](https://github.com/YogaAPSY/tafsirq-api) - `API untuk Al-Quran dan Hadits` *by [Yoga Anugrah Pratama. SY](https://github.com/YogaAPSY)*
 1. (⭐ 0) [TungTang - Hitung Tanggal](https://github.com/masbagal/tungtang) - `Aplikasi web sederhana untuk menghitung penanggalan perayaan meninggalnya seseorang` *by [Dimitrij Agal](https://github.com/masbagal)*
 
