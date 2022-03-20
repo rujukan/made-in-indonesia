@@ -186,6 +186,7 @@
 1. (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 7) [Massseen](https://github.com/gvoze32/massseen) - `Instagram automation tool to view thousands of stories within minutes without getting action block.` *by [Syafa Adena](https://github.com/gvoze32)*
 1. (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+1. (⭐ 4) [Moovy](https://github.com/Ibrahimsyah/Moovy) - `Movie Catalog Hybrid Mobile Apps, built with Clean Architecture Guide by Uncle Bob approach. Written in Typescript` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
