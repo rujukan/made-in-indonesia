@@ -252,6 +252,7 @@
 1. (⭐ 26) [reactplate](https://github.com/bl0cknumber/reactplate) - `A Minimal Setup & Fast Boilerplate for React.js with Vite.` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 4) [Ravioli](https://github.com/raviolini/ravioli) - `A startup script and an automation service made with Python.` *by [Raviolini](https://github.com/raviolini)*
 1. (⭐ 4) [Redux Adventure](https://github.com/BillyFrcs/ReduxAdventure) - `2D Platformer Game Redux Adventure.` *by [Billy Franscois](https://github.com/BillyFrcs)*
+1. (⭐ 2) [Restolobe](https://github.com/Ibrahimsyah/Restolobe) - `Simple Restaurant Catalog Web Apps for Dicoding's Front End Developer Expert Course Final Submission` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
