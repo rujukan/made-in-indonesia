@@ -250,6 +250,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## R
+1. (⭐ 656) [Rakit Validation](https://github.com/rakit/validation) - `PHP Standalone Validation Library` *by [Muhammad Syifa](https://github.com/emsifa)*
 1. (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 30) [React Mazer UI](https://github.com/fachryansyah/react-mazer-ui) - `Reusable component Reactjs for Mazer Template, Free and Open-Source` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
