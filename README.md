@@ -183,6 +183,7 @@
 1. (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
 1. (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+1. (⭐ 34) [Mini SSG](https://github.com/hilmanski/mini-SSG) - `Mini SSG (static site generator) with minimal and beautiful syntax` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 1. (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 7) [Massseen](https://github.com/gvoze32/massseen) - `Instagram automation tool to view thousands of stories within minutes without getting action block.` *by [Syafa Adena](https://github.com/gvoze32)*
