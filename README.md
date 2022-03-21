@@ -120,7 +120,7 @@
 ## H
 1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
 1. (⭐ 468) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
-1. (⭐ 147) [Hadith - API](https://github.com/sutanlab/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/sutanlab)*
+1. (⭐ 147) [Hadith - API](https://github.com/gadingnst/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/gadingnst)*
 1. (⭐ 44) [HikariCP](https://github.com/hendisantika/HikariCP) - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
 1. (⭐ 32) [Hugoblog](https://github.com/zuramai/hugoblog) - `Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 9) [Holy Quran with Colorful Tajweed Anotation](https://github.com/kodepandai/colorful-quran) - `Holy Qur'an with colorfull tajweed anotation` *by [Kode Pandai](https://github.com/kodepandai)*
@@ -239,7 +239,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## Q
-1. (⭐ 414) [Quran - API](https://github.com/sutanlab/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/sutanlab)*
+1. (⭐ 414) [Quran - API](https://github.com/gadingnst/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/gadingnst)*
 1. (⭐ 58) [Quote's Project](https://github.com/nyancodeid/quotes) - `Website sederhana yang menampilkan Kutipan Inspirasional secara acak.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 24) [Quran API ID](https://github.com/renomureza/quran-api-id) - `REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat.` *by [R.M. Reza](https://github.com/renomureza)*
 1. (⭐ 8) [quranku](https://github.com/dikisiswanto/quranku) - `Al-Quran mini web app. Built with Next.js & TailwindCSS` *by [Diki Siswanto](https://github.com/dikisiswanto)*
