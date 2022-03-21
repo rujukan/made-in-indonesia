@@ -78,6 +78,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## F
+1. (⭐ 443) [FreeStuffDev](https://github.com/hilmanski/freeStuffDev) - `list of free stuff for developer` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 1. (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 26) [FotonGo](https://github.com/fachryansyah/fotongo) - `Simple boilerplate for building Backend services like ExpressJS with GOFIBER` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
