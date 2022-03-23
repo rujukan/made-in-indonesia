@@ -169,6 +169,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## L
+1. (⭐ 365) [List of Tech Migrations](https://github.com/kokizzu/list-of-tech-migrations) - `list of public tech migrations` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 1. (⭐ 364) [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) - `Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.` *by [Laravolt](https://github.com/laravolt)*
 1. (⭐ 242) [Learnify](https://github.com/syauqi/learnify) - `Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.` *by [Syauqizaidan](https://github.com/syauqi)*
 1. (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
