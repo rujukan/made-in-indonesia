@@ -1,6 +1,6 @@
 # 🇮🇩 made in indonesia
 
-> Daftar project OSS (Open source Software - Perangkat lunak sumber terbuka) yang dibuat oleh orang indonesia.
+> Daftar project OSS (Open source Software - Perangkat lunak sumber terbuka) yang dibuat oleh orang indonesia. terinspirasi dari [made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine)
 
 [![Made in Indonesia](https://made-in-indonesia.github.io/made-in-indonesia.svg)](https://github.com/made-in-indonesia/made-in-indonesia)
 
