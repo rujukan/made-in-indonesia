@@ -230,6 +230,7 @@
 1. (⭐ 109) [Projectile](https://github.com/Kholid060/projectile) - `An app for managing your JavaScript projects` *by [Ahmad Kholid](https://github.com/Kholid060)*
 1. (⭐ 107) [PHUNT](https://github.com/Kristories/phunt) - `Product Hunt Command Line Interface` *by [Wahyu Kristianto](https://github.com/Kristories)*
 1. (⭐ 90) [pramuka.online](https://github.com/mazipan/pramuka.online) - `Kumpulan informasi digital mengenai berbagai materi pramuka, materi kenegaraan dan materi kecakapan umum` *by [Irfan Maulana](https://github.com/mazipan)*
+1. (⭐ 55) [PyGoat](https://github.com/adeyosemanputra/pygoat) - `intentionally vuln web Application Security in django` *by [adeyosemanputra](https://github.com/adeyosemanputra)*
 1. (⭐ 34) [patterns.run](https://github.com/grikomsn/patterns.run) - `Collection of snippets to render logical patterns` *by [Griko Nibras](https://github.com/grikomsn)*
 1. (⭐ 14) [Praesentia](https://github.com/p4kl0nc4t/praesentia) - `Simple Python-based web application to allow UGM students to fill their QR presence list without having another device in hand.` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
 1. (⭐ 9) [Polarite](https://github.com/teknologi-umum/polarite) - `a Pastebin alternative made for simplicity written in Go.` *by [Teknologi Umum](https://github.com/teknologi-umum)*
