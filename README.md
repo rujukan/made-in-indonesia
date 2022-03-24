@@ -15,6 +15,7 @@
 1. (⭐ 391) [Awesome Docker Security](https://github.com/myugan/awesome-docker-security) - `A curated list of awesome Docker security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 298) [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security) - `A curated list of awesome CI CD security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
+1. (⭐ 142) [Awesome Linux Customization](https://github.com/myugan/awesome-linux-customization) - ` An awesome list of customization tools for your UN*X/Linux desktop.` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 1. (⭐ 58) [ApiRateLimitBundle](https://github.com/IndraGunawan/api-rate-limit-bundle) - `Rate limits protection for api-platform resources.` *by [Indra Gunawan](https://github.com/IndraGunawan)*
 1. (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
