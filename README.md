@@ -315,6 +315,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 28) [TikTok Downloader](https://github.com/hansputera/tiktok-dl) - `Free TikTok Video Downloader | Watermark and Without Watermark Support` *by [Hanif Dwy Putra S](https://github.com/hansputera)*
 1. (⭐ 14) [Timetheft.js](https://github.com/bl0cknumber/timetheft) - `Timetheft.js - Simple and opinionated library to handle countdown in Javascript` *by [Fauzan](https://github.com/bl0cknumber)*
+1. (⭐ 13) [Terjang](https://github.com/andylibrian/terjang) - `Scalable HTTP load testing tool built on Vegeta` *by [Andy Librian](https://github.com/andylibrian)*
 1. (⭐ 9) [Tebak Masa](https://github.com/ariya/tebakmasa) - `Infer the date and time from the general description in Bahasa Indonesia` *by [Ariya Hidayat](https://github.com/ariya)*
 1. (⭐ 8) [Tweet To Blog [Node.js]](https://github.com/hilmanski/tweetToBlog) - `convert your tweets to blog posts` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 5) [Tempeh Engine](https://github.com/shaderboi/tempeh-engine) - `Experimental game engine for a learning purpose` *by [Shaderboi Software](https://github.com/shaderboi)*
