@@ -295,6 +295,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 7) [Seletube](https://github.com/alfianandinugraha/seletube) - `YouTube Playlist Downloader arrow_forward. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 1. (⭐ 5) [Snake Lol](https://github.com/BillyFrcs/SnakeLol) - `Simple 2D Snake Game Snake Lol.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 1. (⭐ 4) [Snake Boxes](https://github.com/BillyFrcs/SnakeBoxes) - `Simple 3D Snake Game Snake Boxes.` *by [Billy Franscois](https://github.com/BillyFrcs)*
+1. (⭐ 3) [Snowflake](https://github.com/HotPotatoC/snowflake) - `Simple twitter's snowflake uniquely identifiable descriptors (IDs) format generator for Go` *by [Juan Christian](https://github.com/HotPotatoC)*
 1. (⭐ 3) [sigma-ciphers-cryptograms](https://github.com/AkuraDiary/sigma-ciphers-cryptograms) - `DIY gravity falls cryptograms made with python, with some twist` *by [Muhammad Asthi Seta Ari Yuwana](https://github.com/AkuraDiary)*
 1. (⭐ 3) [Shipless Play](https://github.com/shipless/play) - `Shipless Play is a React simple playground for HTML, CSS and JavaScript` *by [Ship Less](https://github.com/shipless)*
 1. (⭐ 3) [sen.js](https://github.com/jamastek/sen) - `Sen.js: The modern Next.js & GraphQL boilerplate` *by [Jamastek](https://github.com/jamastek)*
