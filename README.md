@@ -201,6 +201,7 @@
 1. (⭐ 34) [Mini SSG](https://github.com/hilmanski/mini-SSG) - `Mini SSG (static site generator) with minimal and beautiful syntax` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 28) [Mesjid-WPMWA](https://github.com/ri7nz/Mesjid-WPMWA) - `Simple Wordpress Theme with PWA` *by [RiN](https://github.com/ri7nz)*
 1. (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
+1. (⭐ 15) [matlab-robotics-toolbox](https://github.com/auralius/my-matlab-robotics-toolbox) - `Collections of reusable MATLAB robotics functions, can be compilled to DLL and called with LabVIEW.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 7) [Massseen](https://github.com/gvoze32/massseen) - `Instagram automation tool to view thousands of stories within minutes without getting action block.` *by [Syafa Adena](https://github.com/gvoze32)*
 1. (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
