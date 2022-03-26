@@ -316,6 +316,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 325) [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) - `Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis` *by [Juan Christian](https://github.com/HotPotatoC)*
 1. (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+1. (⭐ 119) [Tailwind VPN Landingpage - Free Landingpage Template Apps](https://github.com/naufaldi/next-landing-vpn) - `An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0` *by [Naufaldi](https://github.com/naufaldi)*
 1. (⭐ 81) [tempe](https://github.com/masbagal/tempe) - `Featherlight (< 2kB) helper for Javascript date formatting` *by [Dimitrij Agal](https://github.com/masbagal)*
 1. (⭐ 53) [theme-in-css](https://github.com/pveyes/theme-in-css) - `Type-safe CSS custom properties (CSS variables) for theming purpose` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
