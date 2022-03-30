@@ -192,6 +192,7 @@
 1. (⭐ 5) [LexID](https://github.com/kokizzu/lexid) - `fast lexicographically orderable/sortable ID generator` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 1. (⭐ 4) [Last Mile Delivery API](https://github.com/empeje/last-mile-delivery) - `An (sample) API Implementation of last mile delivery written in Node.js` *by [mpj](https://github.com/empeje)*
 1. (⭐ 3) [Laravel RajaOngkir API Wrapper](https://github.com/kodepandai/laravel-rajaongkir) - `Integrate RajaOngkir API with laravel` *by [Kode Pandai](https://github.com/kodepandai)*
+1. (⭐ 2) [Logam Berkah](https://github.com/adhatama/logamberkah) - `Aplikasi untuk orang yang mau buka toko emas. Bisa menampilkan harga emas ke customer yang mau jual atau beli emas. Harga dasar emas ngambil dari situs resmi Antam: logammulia.com.` *by [Adhatama](https://github.com/adhatama)*
 1. (⭐ 1) [Lunox-framework](https://github.com/kodepandai/lunox-framework) - `This is Lunox Framework. What is Lunox? Lunox is Laravel-Flavoured NodeJs framework.` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 0) [Loyalku](https://github.com/xerod/loyalku) - `Loyalku analyzed data from MOKA POS system` *by [Akramurridjal Rahman](https://github.com/xerod)*
 
