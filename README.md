@@ -59,6 +59,7 @@
 1. (⭐ 9) [chip8-rs](https://github.com/faizilham/chip8-rs) - `CHIP8 implementation in Rust, compiled to wasm` *by [Faiz Ilham](https://github.com/faizilham)*
 1. (⭐ 9) [c9tui](https://github.com/gvoze32/c9tui) - `Simple Cloud9 IDE bash script to create and manage users.` *by [Syafa Adena](https://github.com/gvoze32)*
 1. (⭐ 6) [CulpInt](https://github.com/p4kl0nc4t/culpint) - `Web interface for Recon-ng` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
+1. (⭐ 6) [Code Radio (vscode-extension)](https://github.com/lakuapik/vscode-coderadio) - `Listen 24/7 music designed for coding, in your favorite editor: vscode.` *by [David Adi Nugroho](https://github.com/lakuapik)*
 1. (⭐ 3) [Cpanel Password Reset Tools](https://github.com/naufalardhani/cpanel-pass-reset) - `An easy tool to reset cpanel password when you can't upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
 1. (⭐ 2) [Corona Runner](https://github.com/BillyFrcs/CoronaRunner) - `2D Endless Runner Game Corona Runner.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
