@@ -356,6 +356,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
 1. (⭐ 24) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
 1. (⭐ 8) [VSCode jsdoc-generator](https://github.com/kimlimjustin/vscode-jsdoc-generator) - `VSCode JSDoc comments Generator` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
+1. (⭐ 7) [VSCode Waktu Sholat](https://github.com/lakuapik/vscode-waktusholat) - `Ekstensi Visual Studio Code (vscode) untuk menampilkan dan mengingatkan waktu sholat.` *by [David Adi Nugroho](https://github.com/lakuapik)*
 1. (⭐ 2) [Visual Programming](https://github.com/BillyFrcs/VisualProgramming) - `Visual Basic .NET Windows Form Application.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
