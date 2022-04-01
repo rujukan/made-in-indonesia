@@ -278,6 +278,7 @@
 ## R
 1. (⭐ 656) [Rakit Validation](https://github.com/rakit/validation) - `PHP Standalone Validation Library` *by [Muhammad Syifa](https://github.com/emsifa)*
 1. (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
+1. (⭐ 239) [React Native + Expo Starter Templates](https://github.com/codingki/react-native-expo-template) - `starter templates for building apps with react native and expo` *by [Nur Fikri](https://github.com/codingki)*
 1. (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 94) [Rapi UI](https://github.com/codingki/react-native-rapi-ui) - `React native components library` *by [Nur Fikri](https://github.com/codingki)*
 1. (⭐ 46) [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - `ReScript bindings for @chakra-ui/react` *by [RiN](https://github.com/ri7nz)*
