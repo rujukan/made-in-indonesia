@@ -281,6 +281,7 @@
 1. (⭐ 30) [React Mazer UI](https://github.com/fachryansyah/react-mazer-ui) - `Reusable component Reactjs for Mazer Template, Free and Open-Source` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
 1. (⭐ 26) [reactplate](https://github.com/bl0cknumber/reactplate) - `A Minimal Setup & Fast Boilerplate for React.js with Vite.` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 17) [rescript-libs](https://github.com/ri7nz/rescript-libs) - `a Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.` *by [RiN](https://github.com/ri7nz)*
+1. (⭐ 4) [Reactism](https://github.com/gifaeriyanto/reactism) - `Boilerplate for React projects. Don't take too long to get started!` *by [Gifa Eriyanto](https://github.com/gifaeriyanto)*
 1. (⭐ 4) [Ravioli](https://github.com/raviolini/ravioli) - `A startup script and an automation service made with Python.` *by [Raviolini](https://github.com/raviolini)*
 1. (⭐ 4) [Redux Adventure](https://github.com/BillyFrcs/ReduxAdventure) - `2D Platformer Game Redux Adventure.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 1. (⭐ 2) [Restolobe](https://github.com/Ibrahimsyah/Restolobe) - `Simple Restaurant Catalog Web Apps for Dicoding's Front End Developer Expert Course Final Submission` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
