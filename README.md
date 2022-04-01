@@ -75,6 +75,7 @@
 1. (⭐ 25) [Discord Music Bot For Termux](https://github.com/fdciabdul/tmuxdcbot) - `Discord Music Bot For Termux` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 16) [Decimal Clock](https://github.com/teknologi-umum/decimal-clock) - `1 day = 10 decimal hours, 1 decimal hour = 100 decimal minutes, 1 decimal minute = 100 decimal seconds` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 15) [Dogeit](https://github.com/kimlimjustin/dogeit) - `Doge version of reddit.` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
+1. (⭐ 12) [dzikrr](https://github.com/muslim-dev/dzikrr) - `Aplikasi Dzikir Pagi dan Petang` *by [muslim-dev](https://github.com/muslim-dev)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
