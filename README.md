@@ -252,6 +252,7 @@
 1. (⭐ 55) [PyGoat](https://github.com/adeyosemanputra/pygoat) - `intentionally vuln web Application Security in django` *by [adeyosemanputra](https://github.com/adeyosemanputra)*
 1. (⭐ 34) [patterns.run](https://github.com/grikomsn/patterns.run) - `Collection of snippets to render logical patterns` *by [Griko Nibras](https://github.com/grikomsn)*
 1. (⭐ 14) [Praesentia](https://github.com/p4kl0nc4t/praesentia) - `Simple Python-based web application to allow UGM students to fill their QR presence list without having another device in hand.` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
+1. (⭐ 13) [Pasaran](https://github.com/lantip/pasaran) - `sebuah script selo karena saya beberapa kali tertinggal rapat RT, hanya karena rapat RT di tempat saya ditentukan pake hari pasaran.` *by [Rony Lantip](https://github.com/lantip)*
 1. (⭐ 9) [Polarite](https://github.com/teknologi-umum/polarite) - `a Pastebin alternative made for simplicity written in Go.` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 6) [Pleasantcord](https://github.com/Namchee/pleasantcord) - `NSFW image moderation bot for Discord` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 5) [Product Stock Web App](https://github.com/nafiesl/product-stock) - `A product stock management web app example` *by [Nafies Luthfi](https://github.com/nafiesl)*
