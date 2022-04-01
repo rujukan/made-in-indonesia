@@ -68,6 +68,7 @@
 
 ## D
 1. (⭐ 120) [DWAdmin](https://github.com/andre12001/DWAdmin-Template) - `DWAdmin is a dashboard website made of bootstrap 4 and css and other libraries. This template is very light and suitable for use by companies and other things.` *by [Andre Tri Ramadana](https://github.com/andre12001)*
+1. (⭐ 131) [doh.tiar.app](https://github.com/pengelana/blocklist) - `Privacy DNS` *by [Tiarap](https://github.com/pengelana)*
 1. (⭐ 118) [Dompet](https://github.com/nafiesl/dompet) - `A personal bookkeeping web application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 57) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
 1. (⭐ 43) [Devover Forum](https://github.com/devoverid/forum) - `a Opensource Forum Web with Tailwinds and Laravel` *by [DevoverID](https://github.com/devoverid)*
