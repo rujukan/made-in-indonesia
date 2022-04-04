@@ -124,6 +124,7 @@
 1. (⭐ 28) [Golang Clean Architecture](https://github.com/restuwahyu13/go-clean-architecture) - `Example go clean architecture folder pattern` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 19) [Gorou](https://github.com/zhycorp/gorou) - `Open-source Discord music bot with Lavalink featured with an awesome new thing on Discord.` *by [Zhycorp Development](https://github.com/zhycorp)*
 1. (⭐ 18) [Graphene](https://github.com/teknologi-umum/graphene) - `Lighter Carbon alternative made with Shiki` *by [Teknologi Umum](https://github.com/teknologi-umum)*
+1. (⭐ 16) [Genshin Automation](https://github.com/satyakresna/genshin-automation) - `A great tool for travelers in Genshin Impact world!` *by [Kresna](https://github.com/satyakresna)*
 1. (⭐ 14) [Good JS Plugins](https://github.com/satyakresna/good-js-plugins) - `List of good JS plugins without require third party like JQuery. In other words they are Vanilla JavaScript plugins` *by [Kresna](https://github.com/satyakresna)*
 1. (⭐ 7) [goproc](https://github.com/kokizzu/goproc) - `simple process manager helper library` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 1. (⭐ 5) [Gambar](https://github.com/sendyhalim/gambar) - `Swift CLI tool to generate ASCII art from image ` *by [Sendy Halim](https://github.com/sendyhalim)*
