@@ -305,7 +305,6 @@
 1. (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 1. (⭐ 1,231) [Sudomy](https://github.com/screetsec/Sudomy) - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
 1. (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
-  Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 1. (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 300) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 1. (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
