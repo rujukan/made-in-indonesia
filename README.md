@@ -307,8 +307,8 @@
 1. (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
   Puskesmas yang  gratis` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 1. (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
+1. (⭐ 300) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 1. (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
-1. (⭐ 287) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software ini adalah Software Menejemen Rumah Sakit/Klinik/
 1. (⭐ 243) [Sawa](https://github.com/lantip/sawa) - `sawa (ꦱꦮ) is an open source programming language, an interpreter to be precise, where you can write python code using javanese character.` *by [Rony Lantip](https://github.com/lantip)*
 1. (⭐ 150) [Swime](https://github.com/sendyhalim/Swime) - `Swift MIME type checking based on magic bytes` *by [Sendy Halim](https://github.com/sendyhalim)*
 1. (⭐ 150) [Sistem Informasi Akademik (SIAKAD)](https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel) - `Sistem Informasi Akademik Sekolah adalah Website untuk para siswa dapat melihat jadwal pelajaran, dan nilai rapot dan para guru dapat menambahkan nilai siswa dengan muda melalui website.` *by [
