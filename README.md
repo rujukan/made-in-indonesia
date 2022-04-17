@@ -87,6 +87,7 @@
 ## E
 1. (⭐ 81) [encryptlab](https://github.com/bl0cknumber/encryptlab) - `Comprehensive (and free) list of encryption and decryption in Node.js.` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 31) [Express Model View Controller Pattern (MVC)](https://github.com/restuwahyu13/express-mvc-pattern) - `example nodejs framework using express implementation design pattern using mvc architecture` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
+1. (⭐ 30) [Eleventy Plugin Tailwind CSS](https://github.com/dafiulh/eleventy-plugin-tailwindcss) - `An Eleventy plugin to add Tailwind CSS support for your website` *by [dafiulh](https://github.com/dafiulh)*
 1. (⭐ 15) [evo](https://github.com/rakit/evo) - `Evolve your Laravel code` *by [Muhammad Syifa](https://github.com/emsifa)*
 1. (⭐ 3) [ecommerce](https://github.com/kimlimjustin/ecommerce) - `Web-based Ecommerce platform built using django` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 
