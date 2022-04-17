@@ -367,6 +367,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 ## V
 1. (⭐ 359) [Voler](https://github.com/zuramai/voler) - `The first Bootstrap 5 admin dashboard template` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 223) [Video Stream](https://github.com/levina-lab/video-stream) - `video stream is a Telegram Music+Video Streamer Bot written in Python with Pyrogram and Py-TgCalls with lots of useful features` *by [levina](https://github.com/levina-lab)*
+1. (⭐ 119) [Vredeburg](https://github.com/dafiulh/vredeburg) - `A simple starter project to create a blog using Eleventy and Tailwind CSS` *by [dafiulh](https://github.com/dafiulh)*
 1. (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
 1. (⭐ 24) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
 1. (⭐ 8) [VSCode jsdoc-generator](https://github.com/kimlimjustin/vscode-jsdoc-generator) - `VSCode JSDoc comments Generator` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
