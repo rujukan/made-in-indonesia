@@ -418,7 +418,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 <a class="bmc-btn" target="_blank" href="http://buymeacoffee.com/anuuyu">
-![bmc](/bmc.png)
+![bmc](https://github.com/anuuyu/made-in-indonesia/blob/main/bmc.png)
 </a>
 
 
