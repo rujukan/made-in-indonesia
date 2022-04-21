@@ -106,6 +106,7 @@
 1. (⭐ 19) [fav](https://github.com/Namchee/fav) - `Embrace favicons the modern way rocket. Inspired by EvilMartian's blogpost.` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 10) [flair-kit monorepo](https://github.com/jackyef/flair) - `Collections of ready-to-use, accessible React components. Dark-mode and SSR support included.` *by [Jacky Efendi](https://github.com/jackyef)*
+1. (⭐ 8) [Fat Secret Unofficial API](https://github.com/mandaputtra/fatsecret-unofc-api) - `Food Bank HTTP API, provide you with food information, calorie, fat, etc. Powered by Fat Secret webpage` *by [Manda Putra](https://github.com/mandaputtra)*
 1. (⭐ 5) [Fimail](https://github.com/feri-irawan/fimail) - `Layanan pengirim pesan elektronik (email) dengan API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 1. (⭐ 5) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
 1. (⭐ 5) [Fireworks Visual Effect](https://github.com/BillyFrcs/FireworksVFX) - `Awesome Fireworks Visual Effect.` *by [Billy Franscois](https://github.com/BillyFrcs)*
