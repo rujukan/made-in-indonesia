@@ -45,6 +45,7 @@
 1. (⭐ 14) [Budget Pascal](https://github.com/faizilham/budgetpascal) - `A compiler for a subset of Pascal to WebAssembly` *by [Faiz Ilham](https://github.com/faizilham)*
 1. (⭐ 12) [Barka](https://github.com/dikisiswanto/barka) - `Tema untuk CMS Sekolahku` *by [Diki Siswanto](https://github.com/dikisiswanto)*
 1. (⭐ 11) [Bob - SQL Query Builder](https://github.com/aldy505/bob) - `SQL query builder for Go. Might also be used as an extension for Squirrel.` *by [Reinaldy Rafli](https://github.com/aldy505)*
+1. (⭐ 9) [BlobCDN](https://github.com/fransallen/blobcdn) - `BlobCDN is the CDN for beautiful SVG shapes. The service allows you to quickly generate SVG shapes on the fly.` *by [Frans Allen](https://github.com/fransallen)*
 1. (⭐ 5) [Baileys Wabot](https://github.com/moo-d/termux-whatsapp-bot) - `Bot WhatsApp with NodeJS` *by [ナスワサルサ](https://github.com/moo-d)*
 1. (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 3) [bapa](https://github.com/drepram/bapa) - `A template text filler for a Bible Reading Group checklist written in VanillaJS` *by [Andre Christoga Pramaditya](https://github.com/drepram)*
