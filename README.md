@@ -49,6 +49,7 @@
 1. (⭐ 3) [Bandwidth Hero (Refactored)](https://github.com/nyancodeid/bandwidth-hero-proxy) - `Bandwidth Hero is an open-source browser extension which reduces the amount of data consumed when you browse web pages by compressing all images on the page. It uses data compression service to convert images to low-resolution WebP or JPEG images.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 3) [bapa](https://github.com/drepram/bapa) - `A template text filler for a Bible Reading Group checklist written in VanillaJS` *by [Andre Christoga Pramaditya](https://github.com/drepram)*
 1. (⭐ 2) [Bilal](https://github.com/azzamsa/bilal) - `A CLI salah time written in Rust` *by [Azzam S.A.](https://github.com/azzamsa)*
+1. (⭐ 3) [Bootify](https://github.com/melvnl/bootify) - `a PWA web app that serve it purpose as Poor man's Spotify, listen music freely (Booooooo) through YouTube API` *by [melvnl](https://github.com/melvnl)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
@@ -83,6 +84,8 @@
 1. (⭐ 16) [Decimal Clock](https://github.com/teknologi-umum/decimal-clock) - `1 day = 10 decimal hours, 1 decimal hour = 100 decimal minutes, 1 decimal minute = 100 decimal seconds` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 15) [Dogeit](https://github.com/kimlimjustin/dogeit) - `Doge version of reddit.` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 12) [dzikrr](https://github.com/muslim-dev/dzikrr) - `Aplikasi Dzikir Pagi dan Petang` *by [muslim-dev](https://github.com/muslim-dev)*
+1. (⭐ 2) [discord-alert](https://github.com/melvnl/discord-alert) - `Send notification to a discord server from your site` *by [melvnl](https://github.com/melvnl)*
+
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
