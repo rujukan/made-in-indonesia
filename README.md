@@ -392,6 +392,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
 1. (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
 1. (⭐ 330) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
+1. (⭐ 153) [Whatsapp Analyzer](https://github.com/PetengDedet/WhatsApp-Analyzer) - `WhatsApp Chat analyzer` *by [Ikhwan Maftuh](https://github.com/PetengDedet)*
 1. (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
 1. (⭐ 35) [whatsapp-clone](https://github.com/kimlimjustin/whatsapp-clone) - `Web based Whatsapp clone with real time private chat and group chat features` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
