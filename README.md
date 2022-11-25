@@ -16,6 +16,7 @@
 1. (⭐ 1,543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 1. (⭐ 391) [Awesome Docker Security](https://github.com/myugan/awesome-docker-security) - `A curated list of awesome Docker security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 298) [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security) - `A curated list of awesome CI CD security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
+1. (⭐ 634) [Awesome-Indonesia-Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - `A curated list of amazingly awesome repository created and contributed by Indonesian people.` *by [GitIndonesia](https://github.com/GitIndonesia)*
 1. (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
 1. (⭐ 142) [Awesome Linux Customization](https://github.com/myugan/awesome-linux-customization) - ` An awesome list of customization tools for your UN*X/Linux desktop.` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 78) [API Hari Libur](https://github.com/satyakresna/api-harilibur) - `API Hari Libur Nasional di Indonesia. Tanggal merah di kalender bisa menyenangkan semua orang` *by [Kresna](https://github.com/satyakresna)*
@@ -198,6 +199,7 @@
 
 ## L
 1. (⭐ 376) [LARAVOLT INDONESIA](https://github.com/laravolt/indonesia) - `Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.` *by [Laravolt](https://github.com/laravolt)*
+1. (⭐ 1.1k) [List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - `List of All Programming Telegram Group` *by [Hendi Santika](https://github.com/hendisantika)*
 1. (⭐ 365) [List of Tech Migrations](https://github.com/kokizzu/list-of-tech-migrations) - `list of public tech migrations` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 1. (⭐ 242) [Learnify](https://github.com/syauqi/learnify) - `Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.` *by [Syauqizaidan](https://github.com/syauqi)*
 1. (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
