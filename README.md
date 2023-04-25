@@ -234,6 +234,7 @@
 1. (⭐ 7) [Massseen](https://github.com/gvoze32/massseen) - `Instagram automation tool to view thousands of stories within minutes without getting action block.` *by [Syafa Adena](https://github.com/gvoze32)*
 1. (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 1. (⭐ 4) [Moovy](https://github.com/Ibrahimsyah/Moovy) - `Movie Catalog Hybrid Mobile Apps, built with Clean Architecture Guide by Uncle Bob approach. Written in Typescript` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
+1. (⭐ 4) [Mutasi Scraper](https://github.com/fdciabdul/mutasi-scraper) - `NodeJS Package for scraping settlement (mutasi) in iBank indonesia` *by [Taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
@@ -418,6 +419,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 1) [YADPF](https://github.com/auralius/yadpf) - `A generic implementation of dynamic programming algorithm and value iteration algorithm.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+2. 1. (⭐ 118) [YOMEN]([https://github.com/alfianandinugraha/yourduit](https://github.com/tegal1337/YOMEN)) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
