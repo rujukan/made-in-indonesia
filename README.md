@@ -419,7 +419,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 1) [YADPF](https://github.com/auralius/yadpf) - `A generic implementation of dynamic programming algorithm and value iteration algorithm.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
-2. 1. (⭐ 118) [YOMEN](https://github.com/tegal1337/YOMEN) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
+2. (⭐ 118) [YOMEN](https://github.com/tegal1337/YOMEN) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
