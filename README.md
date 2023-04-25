@@ -12,7 +12,7 @@
 
 ## A 
 1. (⭐ 3,565) [Automa](https://github.com/Kholid060/automa) - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
-1. (⭐ 121) [AdBlockID](https://github.com/realodix/AdBlockID) - `An effective filter for removing most ads on Indonesian and Malaysian websites. ` *by [ realodix ](https://github.com/realodix)*
+1. (⭐ 125) [AdBlockID](https://github.com/realodix/AdBlockID) - `An effective filter for removing most ads on Indonesian and Malaysian websites. ` *by [ realodix ](https://github.com/realodix)*
 1. (⭐ 1,543) [avatar](https://github.com/laravolt/avatar) - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 1. (⭐ 391) [Awesome Docker Security](https://github.com/myugan/awesome-docker-security) - `A curated list of awesome Docker security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 1. (⭐ 298) [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security) - `A curated list of awesome CI CD security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
@@ -23,23 +23,23 @@
 1. (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 1. (⭐ 58) [ApiRateLimitBundle](https://github.com/IndraGunawan/api-rate-limit-bundle) - `Rate limits protection for api-platform resources.` *by [Indra Gunawan](https://github.com/IndraGunawan)*
 1. (⭐ 45) [Aperture](https://github.com/pveyes/aperture) - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
-1. (⭐ 27) [AyoShalat](https://github.com/butirpadi/AyoShalat) - `Aplikasi Pengingat Waktu Shalat yang di bangun menggunakan Python. Aplikasi Sederhana ini, masih dalam pengembangan, Sudah dapat digunakan, dengan beberapa toleransi ketepatan waktu.` *by [Butirpadi](https://github.com/butirpadi)*
+1. (⭐ 26) [AyoShalat](https://github.com/butirpadi/AyoShalat) - `Aplikasi Pengingat Waktu Shalat yang di bangun menggunakan Python. Aplikasi Sederhana ini, masih dalam pengembangan, Sudah dapat digunakan, dengan beberapa toleransi ketepatan waktu.` *by [Butirpadi](https://github.com/butirpadi)*
 1. (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 7) [Al-Quran dan Terjemahan](https://github.com/ngekoding/quran-id) - `Al-Quran with Indonesian Translation built with Vue Quasar Framework` *by [Nur Muhammad](https://github.com/ngekoding)*
 1. (⭐ 6) [AidenBot](https://github.com/laymonage/AidenBot) - `Multi-purpose bot for LINE messaging app, built with Flask.` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 5) [APAM Barabai](https://github.com/basoro/APAM-Barabai) - `Aplikasi Pasien dan Antrian Mandiri. Modul aplikasi mobile SIMRS Khanza versi Android dan IOS untuk pasien rawat Jalan.` *by [Basoro](https://github.com/basoro)*
-1. (⭐ 3) [axolotl](https://github.com/k1m0ch1/axolotl) - `toolings for pentester to makes their life easier` *by [Yahya Fadhlulloh Al-Fatih](https://github.com/k1m0ch1)*
+1. (⭐ 9) [axolotl](https://github.com/k1m0ch1/axolotl) - `toolings for pentester to makes their life easier` *by [Yahya Fadhlulloh Al-Fatih](https://github.com/k1m0ch1)*
 1. (⭐ 3) [Al-Qur'an JSON API [id-ID]](https://github.com/nyancodeid/quran-api-go) - `Grabbed from Officially Kementerian Agama Website then parsed as JSON file. No change anything on it, just reorder JSON schema and make it better.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## B
-1. (⭐ 502) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
+1. (⭐ 743) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
 1. (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
 1. (⭐ 80) [Bloggerpack](https://github.com/bloggerpack/bloggerpack) - `A tool for develop Blogger theme.` *by [Igoy Nawamreh](https://github.com/igoynawamreh)*
 1. (⭐ 66) [Bangjago Android Emulator (CLI Version)](https://github.com/restuwahyu13/bangjago-android-emulator) - `Simple android emulator cli for mobile development` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
-1. (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
+1. (⭐ 124) [Blackprint](https://github.com/Blackprint/Blackprint) - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
 1. (⭐ 60) [Boilerplate Svelte](https://github.com/agusID/boilerplate-svelte) - `Boilerplate Svelte Javascript Framework` *by [Dwi Agustianto](https://github.com/agusID)*
 1. (⭐ 26) [Daftar Kata Baku dan Tidak Baku](https://github.com/lantip/baku-tidak-baku) - `Kumpulan kata baku dan tidak baku menurut KBBI` *by [Rony Lantip](https://github.com/lantip)*
 1. (⭐ 19) [Batangan](https://github.com/lantip/batangan) - `Batangan adalah permainan tebak kata dalam bahasa Jawa. Sumber kata dari kamus Poerwadarminta` *by [Rony Lantip](https://github.com/lantip)*
@@ -62,8 +62,8 @@
 1. (⭐ 86) [Cek Ejaan Figma Plugin](https://github.com/sonnylazuardi/cek-ejaan) - `Gramatika Figma Plugin: Spell Checking (Grammarly) for Bahasa Indonesia. This makes it easy to check the typo or spelling mistakes in your design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 74) [Compose playground: To Do List App](https://github.com/wisnukurniawan/Compose-ToDo) - `iOS reminder app clone built with Jetpack Compose` *by [Wisnu Kurniawan](https://github.com/wisnukurniawan)*
 1. (⭐ 53) [Chakra-Icons](https://github.com/kodingdotninja/chakra-icons) - `Transform SVG to React Chakra UI <Icon />` *by [Koding Ninja](https://github.com/kodingdotninja)*
-1. (⭐ 42) [cardivo](https://github.com/satyawikananda/cardivo) - `Get your card name and put it in your magic readme card_index` *by [Satya Wikananda](https://github.com/satyawikananda)*
-1. (⭐ 17) [carakanjs](https://github.com/masnormen/carakanjs) - `Convert/transliterate Latin script into Javanese script, also known as Aksara Jawa or Carakan.` *by [Nourman Hajar](https://github.com/masnormen)*
+1. (⭐ 71) [cardivo](https://github.com/satyawikananda/cardivo) - `Get your card name and put it in your magic readme card_index` *by [Satya Wikananda](https://github.com/satyawikananda)*
+1. (⭐ 23) [carakanjs](https://github.com/masnormen/carakanjs) - `Convert/transliterate Latin script into Javanese script, also known as Aksara Jawa or Carakan.` *by [Nourman Hajar](https://github.com/masnormen)*
 1. (⭐ 9) [chip8-rs](https://github.com/faizilham/chip8-rs) - `CHIP8 implementation in Rust, compiled to wasm` *by [Faiz Ilham](https://github.com/faizilham)*
 1. (⭐ 9) [c9tui](https://github.com/gvoze32/c9tui) - `Simple Cloud9 IDE bash script to create and manage users.` *by [Syafa Adena](https://github.com/gvoze32)*
 1. (⭐ 7) [ColorSense](https://github.com/codingki/colorSense) - `Color Sense game` *by [Nur Fikri](https://github.com/codingki)*
@@ -78,15 +78,15 @@
 1. (⭐ 120) [DWAdmin](https://github.com/andre12001/DWAdmin-Template) - `DWAdmin is a dashboard website made of bootstrap 4 and css and other libraries. This template is very light and suitable for use by companies and other things.` *by [Andre Tri Ramadana](https://github.com/andre12001)*
 1. (⭐ 131) [doh.tiar.app](https://github.com/pengelana/blocklist) - `Privacy DNS` *by [Tiarap](https://github.com/pengelana)*
 1. (⭐ 118) [Dompet](https://github.com/nafiesl/dompet) - `A personal bookkeeping web application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
-1. (⭐ 57) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
+1. (⭐ 59) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
 1. (⭐ 43) [Devover Forum](https://github.com/devoverid/forum) - `a Opensource Forum Web with Tailwinds and Laravel` *by [DevoverID](https://github.com/devoverid)*
-1. (⭐ 39) [discussbase](https://github.com/hilmanski/discussbase) - `An open-source forum Create your discussion platform and deploy it completely free, Using SEVEN stack - Supabase, Vercel and Next.js` *by [Hilman Ramadhan](https://github.com/hilmanski)*
-1. (⭐ 32) [django-jsonfield-backport](https://github.com/laymonage/django-jsonfield-backport) - `Backport of the cross-DB JSONField model and form fields from Django 3.1.` *by [Sage Abdullah](https://github.com/laymonage)*
+1. (⭐ 58) [discussbase](https://github.com/hilmanski/discussbase) - `An open-source forum Create your discussion platform and deploy it completely free, Using SEVEN stack - Supabase, Vercel and Next.js` *by [Hilman Ramadhan](https://github.com/hilmanski)*
+1. (⭐ 38) [django-jsonfield-backport](https://github.com/laymonage/django-jsonfield-backport) - `Backport of the cross-DB JSONField model and form fields from Django 3.1.` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 25) [Discord Music Bot For Termux](https://github.com/fdciabdul/tmuxdcbot) - `Discord Music Bot For Termux` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 16) [Decimal Clock](https://github.com/teknologi-umum/decimal-clock) - `1 day = 10 decimal hours, 1 decimal hour = 100 decimal minutes, 1 decimal minute = 100 decimal seconds` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 15) [Dogeit](https://github.com/kimlimjustin/dogeit) - `Doge version of reddit.` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
-1. (⭐ 12) [dzikrr](https://github.com/muslim-dev/dzikrr) - `Aplikasi Dzikir Pagi dan Petang` *by [muslim-dev](https://github.com/muslim-dev)*
-1. (⭐ 2) [discord-alert](https://github.com/melvnl/discord-alert) - `Send notification to a discord server from your site` *by [melvnl](https://github.com/melvnl)*
+1. (⭐ 13) [dzikrr](https://github.com/muslim-dev/dzikrr) - `Aplikasi Dzikir Pagi dan Petang` *by [muslim-dev](https://github.com/muslim-dev)*
+1. (⭐ 3) [discord-alert](https://github.com/melvnl/discord-alert) - `Send notification to a discord server from your site` *by [melvnl](https://github.com/melvnl)*
 
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
@@ -106,12 +106,12 @@
 1. (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 26) [FotonGo](https://github.com/fachryansyah/fotongo) - `Simple boilerplate for building Backend services like ExpressJS with GOFIBER` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
 1. (⭐ 21) [Frogo Android SDK](https://github.com/frogobox/frogo-android-sdk) - `SDK for anything your problem to make easier developing android apps` *by [Faisal Amir](https://github.com/amirisback)*
-1. (⭐ 19) [fav](https://github.com/Namchee/fav) - `Embrace favicons the modern way rocket. Inspired by EvilMartian's blogpost.` *by [Cristopher](https://github.com/Namchee)*
+1. (⭐ 21) [fav](https://github.com/Namchee/fav) - `Embrace favicons the modern way rocket. Inspired by EvilMartian's blogpost.` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 10) [flair-kit monorepo](https://github.com/jackyef/flair) - `Collections of ready-to-use, accessible React components. Dark-mode and SSR support included.` *by [Jacky Efendi](https://github.com/jackyef)*
 1. (⭐ 8) [Fat Secret Unofficial API](https://github.com/mandaputtra/fatsecret-unofc-api) - `Food Bank HTTP API, provide you with food information, calorie, fat, etc. Powered by Fat Secret webpage` *by [Manda Putra](https://github.com/mandaputtra)*
 1. (⭐ 5) [Fimail](https://github.com/feri-irawan/fimail) - `Layanan pengirim pesan elektronik (email) dengan API.` *by [Feri Irawan](https://github.com/feri-irawan)*
-1. (⭐ 5) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
+1. (⭐ 6) [FND](https://github.com/rifkybujana/FND) - `Fake News Detection AI` *by [Rifky Bujana Bisri](https://github.com/rifkybujana)*
 1. (⭐ 5) [Fireworks Visual Effect](https://github.com/BillyFrcs/FireworksVFX) - `Awesome Fireworks Visual Effect.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 1. (⭐ 4) [Fistorage](https://github.com/feri-irawan/fistorage) - `JSON storage with API.` *by [Feri Irawan](https://github.com/feri-irawan)*
 1. (⭐ 3) [Flappy Bird](https://github.com/BillyFrcs/FlappyBird) - `Flappy Bird Game.` *by [Billy Franscois](https://github.com/BillyFrcs)*
@@ -129,15 +129,15 @@
 1. (⭐ 50) [Golang Gin Framework Fundamental](https://github.com/restuwahyu13/gin-rest-api) - `Example golang using gin framework everything you need, i create this tutorial special for beginner.` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 48) [Garuda CRUD Generator](https://github.com/nurisakbar/Garuda-CRUD-Generator) - `Garuda CRUD Generator adalah CRUD Generator Untuk Framework Codeigniter 3, Library Datatables Serverside Untuk Menampilkan Data Dan Template AdminLTE. CRUD Generator Yang Saya Gunakan Adalah Harviacode Yang Sudah Dimodifikasi Agar Hasil Generate Filenya Sesuai Dengan AdminLTE.` *by [Nuris Akbar](https://github.com/nurisakbar)*
 1. (⭐ 32) [GotRo](https://github.com/kokizzu/gotro) - `GotRo is a collection of libraries and a Golang web framework` *by [Kiswono Prayogo](https://github.com/kokizzu)*
-1. (⭐ 31) [gridjs-svelte](https://github.com/iamyuu/gridjs-svelte) - `A Svelte wrapper component for Grid.js` *by [Muhammad Yusuf](https://github.com/iamyuu)*
-1. (⭐ 30) [getsubdomain](https://github.com/abaykan/getsubdomain) - `Get subdomain list and check whether they are active or not by each response code. Using API by c99.nl` *by [abay](https://github.com/abaykan)*
+1. (⭐ 51) [gridjs-svelte](https://github.com/iamyuu/gridjs-svelte) - `A Svelte wrapper component for Grid.js` *by [Muhammad Yusuf](https://github.com/iamyuu)*
+1. (⭐ 10) [getsubdomain](https://github.com/abaykan/getsubdomain) - `Get subdomain list and check whether they are active or not by each response code. Using API by c99.nl` *by [abay](https://github.com/abaykan)*
 1. (⭐ 29) [Google Keep Clone](https://github.com/kimlimjustin/google-keep-clone) - `Clone of Google Keep built using Django and Javascript` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 28) [Golang Clean Architecture](https://github.com/restuwahyu13/go-clean-architecture) - `Example go clean architecture folder pattern` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 19) [Gorou](https://github.com/zhycorp/gorou) - `Open-source Discord music bot with Lavalink featured with an awesome new thing on Discord.` *by [Zhycorp Development](https://github.com/zhycorp)*
 1. (⭐ 18) [Graphene](https://github.com/teknologi-umum/graphene) - `Lighter Carbon alternative made with Shiki` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 16) [Genshin Automation](https://github.com/satyakresna/genshin-automation) - `A great tool for travelers in Genshin Impact world!` *by [Kresna](https://github.com/satyakresna)*
 1. (⭐ 14) [Good JS Plugins](https://github.com/satyakresna/good-js-plugins) - `List of good JS plugins without require third party like JQuery. In other words they are Vanilla JavaScript plugins` *by [Kresna](https://github.com/satyakresna)*
-1. (⭐ 7) [goproc](https://github.com/kokizzu/goproc) - `simple process manager helper library` *by [Kiswono Prayogo](https://github.com/kokizzu)*
+1. (⭐ 20) [goproc](https://github.com/kokizzu/goproc) - `simple process manager helper library` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 1. (⭐ 5) [Gambar](https://github.com/sendyhalim/gambar) - `Swift CLI tool to generate ASCII art from image ` *by [Sendy Halim](https://github.com/sendyhalim)*
 1. (⭐ 4) [Github Repo Content CRUD](https://github.com/hilmanski/Github-content-CRUD-API) - `CRUD API to manipulate contents in your folder's repository` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 4) [genmypass](https://github.com/alfianandinugraha/genmypass) - `Generate random password with Javascript` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
@@ -147,9 +147,9 @@
 
 ## H
 1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
-1. (⭐ 468) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
+1. (⭐ 508) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 147) [Hadith - API](https://github.com/gadingnst/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/gadingnst)*
-1. (⭐ 44) [HikariCP](https://github.com/hendisantika/HikariCP) - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
+1. (⭐ 46) [HikariCP](https://github.com/hendisantika/HikariCP) - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
 1. (⭐ 32) [Hugoblog](https://github.com/zuramai/hugoblog) - `Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 9) [Holy Quran with Colorful Tajweed Anotation](https://github.com/kodepandai/colorful-quran) - `Holy Qur'an with colorfull tajweed anotation` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 1) [Gabo](https://github.com/jamastek/gabo) - `Gabo: Gatsbyjs Boilerplate` *by [Jamastek](https://github.com/jamastek)*
@@ -158,13 +158,13 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## I
-1. (⭐ 111) [indonesianadblockrules](https://github.com/ABPindo/indonesianadblockrules) - `Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.` *by [ABPindo](https://github.com/ABPindo)*
+1. (⭐ 120) [indonesianadblockrules](https://github.com/ABPindo/indonesianadblockrules) - `Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.` *by [ABPindo](https://github.com/ABPindo)*
 1. (⭐ 158) [Inside Heartz WhatsApp Bot](https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot) - `A multipurpose whatsapp bot buillt on node.js` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 96) [IRO](https://github.com/nyancodeid/iro) - `IRO - Amazing Color Tools. Color Convert HEX, RGB, HSL and CMYK. Color Inspection with Camera.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 40) [InstaShare](https://github.com/nyancodeid/insta-share) - `Instant File Sharing powered by IPFS Networks. Build with Vue 3 and ViteJS` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 28) [Idnaive](https://github.com/bl0cknumber/idnaive) - `A Simple Node.js Naive Bayes Library.` *by [Fauzan](https://github.com/bl0cknumber)*
 1. (⭐ 22) [Inspect CSS](https://github.com/Kholid060/inspect-css) - `The easiest way to inspect and edit CSS` *by [Ahmad Kholid](https://github.com/Kholid060)*
-1. (⭐ 19) [irgsh-go](https://github.com/BlankOn/irgsh-go) - `An all-in-one tool to create and maintain Debian-derived GNU/Linux distribution: from packaging to repository, from ISO build to release management.` *by [BlankOn](https://github.com/BlankOn)*
+1. (⭐ 20) [irgsh-go](https://github.com/BlankOn/irgsh-go) - `An all-in-one tool to create and maintain Debian-derived GNU/Linux distribution: from packaging to repository, from ISO build to release management.` *by [BlankOn](https://github.com/BlankOn)*
 1. (⭐ 16) [Instagram Preloading](https://github.com/andriiginting/instagram-preloading) - `to show how to use preloading in exoplayer android using simple MVVM` *by [Andri Ginting](https://github.com/andriiginting)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
@@ -182,14 +182,14 @@
 1. (⭐ 526) [Klisé](https://github.com/piharpi/jekyll-klise) - `Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support.` *by [Harπ](https://github.com/piharpi)*
 1. (⭐ 156) [ksana.in](https://github.com/mazipan/ksana.in) - `Layanan pemendek tautan yang mudah, gratis & tanpa iklan` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 100) [Katla](https://github.com/pveyes/katla) - `Permainan kata harian. Imitasi Terinspirasi dari Wordle` *by [Fatih Kalifa](https://github.com/pveyes)*
-1. (⭐ 56) [kbbi-python](https://github.com/laymonage/kbbi-python) - `A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id)` *by [Sage Abdullah](https://github.com/laymonage)*
+1. (⭐ 71) [kbbi-python](https://github.com/laymonage/kbbi-python) - `A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id)` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 55) [Kotla](https://github.com/jackyef/kotla) - `Kota (city; in Indonesian) guessing game, inspired by Katla` *by [Jacky Efendi](https://github.com/jackyef)*
 1. (⭐ 49) [Kyros](https://github.com/p4kl0nc4t/kyros) - `Python wrapper for WhatsApp Web API websocket communication` *by [Faiz Jazadi](https://github.com/p4kl0nc4t)*
 1. (⭐ 48) [Kelas Rumah Berbagi](https://github.com/zainfathoni/kelas.rumahberbagi.com) - `Kelas Rumah Berbagi` *by [Zain Fathoni](https://github.com/zainfathoni)*
 1. (⭐ 43) [Kait-Admin](https://github.com/devoverid/kait-admin) - `A Free VueJS + TailwindCSS Admin Template` *by [DevoverID](https://github.com/devoverid)*
 1. (⭐ 39) [Khanza LITE](https://github.com/basoro/Khanza-Lite) - `SIMKES Khanza versi Ringan. Jalan di sisi server sebagai aplikasi web dan bersifat mobile first (responsive).` *by [Basoro](https://github.com/basoro)*
-1. (⭐ 16) [kvstore](https://github.com/HotPotatoC/kvstore) - `kvstore is an experimental in-memory database server compatible with the redis protocol (RESP).` *by [Juan Christian](https://github.com/HotPotatoC)*
-1. (⭐ 11) [kalman-cpp](https://github.com/auralius/kalman-cpp) - `Kalman Filter, Extended Kalman Filter, and Unscented Kalman Filter implementation in C++` *by [Auralius Manurung](https://github.com/auralius)*
+1. (⭐ 17) [kvstore](https://github.com/HotPotatoC/kvstore) - `kvstore is an experimental in-memory database server compatible with the redis protocol (RESP).` *by [Juan Christian](https://github.com/HotPotatoC)*
+1. (⭐ 21) [kalman-cpp](https://github.com/auralius/kalman-cpp) - `Kalman Filter, Extended Kalman Filter, and Unscented Kalman Filter implementation in C++` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 11) [Kanaizu](https://github.com/elianiva/kanaizu) - `This is a simple quiz app that I made as an excuse to try Routify/Svelte and to help my friend memorise Japanese kana. It's not perfect but it's quite usable. Currently there are ~508 words or phrase of hiragana and katakana.` *by [elianiva](https://github.com/elianiva)*
 1. (⭐ 6) [Kraken Node](https://github.com/restuwahyu13/kraken-node) - `Dependency injection to register module to global access, you can load each given module from kraken.config.json` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 4) [Kraken Browser](https://github.com/restuwahyu13/kraken-browser) - `Dependency injection to register module to global access, you can load each given module from kraken config` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
@@ -204,9 +204,9 @@
 1. (⭐ 242) [Learnify](https://github.com/syauqi/learnify) - `Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.` *by [Syauqizaidan](https://github.com/syauqi)*
 1. (⭐ 150) [LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]](https://github.com/joglomedia/LEMPer) - `LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).` *by [Edi Septriyanto](https://github.com/joglomedia)*
 1. (⭐ 29) [Luck or hardwork](https://github.com/jackyef/luck-or-hardwork) - `Simple web-app to provide illustration about a take on luck and hard work.` *by [Jacky Efendi](https://github.com/jackyef)*
-1. (⭐ 28) [latintojavanese](https://github.com/lantip/latintojavanese) - `Script sederhana untuk mengubah aksara latin menjadi aksara Jawa` *by [Rony Lantip](https://github.com/lantip)*
+1. (⭐ 31) [latintojavanese](https://github.com/lantip/latintojavanese) - `Script sederhana untuk mengubah aksara latin menjadi aksara Jawa` *by [Rony Lantip](https://github.com/lantip)*
 1. (⭐ 19) [Lyrics Finder](https://github.com/angeloanan/lyrics-finder) - `Search the lyrics to your music with Lyrics Finder` *by [Angelo](https://github.com/angeloanan)*
-1. (⭐ 12) [LuGre](https://github.com/auralius/LuGre) - `A full reconstruction of the paper: A new model for control systems with friction (Canudas de Wit et al., 1995, IEEE Transactions on Automatic Control)` *by [Auralius Manurung](https://github.com/auralius)*
+1. (⭐ 19) [LuGre](https://github.com/auralius/LuGre) - `A full reconstruction of the paper: A new model for control systems with friction (Canudas de Wit et al., 1995, IEEE Transactions on Automatic Control)` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 12) [LhokUtang](https://github.com/theodorusclarence/lhokutang) - `App to track debt with your housemates` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 1. (⭐ 11) [Lunox](https://github.com/kodepandai/lunox) - `Lunox is Laravel-Flavoured NodeJs Framework. What is Laravel? Laravel is a web application framework with expressive, elegant syntax see the official website. Lunox goals is to bring the Laravel Flavour to nodejs environment.` *by [Kode Pandai](https://github.com/kodepandai)*
 1. (⭐ 7) [LRU-SEND](https://github.com/tinyhttp/lru-send) - `LRU-based caching middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
@@ -222,34 +222,34 @@
 ## M
 1. (⭐ 966) [Mazer Dashboard](https://github.com/zuramai/mazer) - `Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
-1. (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+1. (⭐ 125) [milliparsec](https://github.com/tinyhttp/milliparsec) - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 106) [MkDown](https://github.com/Kholid060/MkDown2) - `Online markdown editor` *by [Ahmad Kholid](https://github.com/Kholid060)*
 1. (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
-1. (⭐ 45) [Muvi](https://github.com/andriiginting/Muvi) - `Very simple project to show a collection of Movie from MovieDb with a minimalist design` *by [Andri Ginting](https://github.com/andriiginting)*
+1. (⭐ 47) [Muvi](https://github.com/andriiginting/Muvi) - `Very simple project to show a collection of Movie from MovieDb with a minimalist design` *by [Andri Ginting](https://github.com/andriiginting)*
 1. (⭐ 34) [Mini SSG](https://github.com/hilmanski/mini-SSG) - `Mini SSG (static site generator) with minimal and beautiful syntax` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 28) [Mesjid-WPMWA](https://github.com/ri7nz/Mesjid-WPMWA) - `Simple Wordpress Theme with PWA` *by [RiN](https://github.com/ri7nz)*
-1. (⭐ 25) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
+1. (⭐ 33) [moneyman](https://github.com/hiwijaya/moneyman) - `Personal finance manager in your pocket` *by [Happy Indra Wijaya](https://github.com/hiwijaya)*
 1. (⭐ 15) [matlab-robotics-toolbox](https://github.com/auralius/my-matlab-robotics-toolbox) - `Collections of reusable MATLAB robotics functions, can be compilled to DLL and called with LabVIEW.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 8) [Mockify](https://github.com/nyancodeid/mockify) - `Mockup your Design for Instantly Shareable Images. Build with Vue 3 and ViteJS.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 7) [Massseen](https://github.com/gvoze32/massseen) - `Instagram automation tool to view thousands of stories within minutes without getting action block.` *by [Syafa Adena](https://github.com/gvoze32)*
-1. (⭐ 5) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
-1. (⭐ 4) [Moovy](https://github.com/Ibrahimsyah/Moovy) - `Movie Catalog Hybrid Mobile Apps, built with Clean Architecture Guide by Uncle Bob approach. Written in Typescript` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
+1. (⭐ 6) [maojajan](https://github.com/alfianandinugraha/maojajan) - `Do you want to note stuff before shopping ? use Maojajan !` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+1. (⭐ 7) [Moovy](https://github.com/Ibrahimsyah/Moovy) - `Movie Catalog Hybrid Mobile Apps, built with Clean Architecture Guide by Uncle Bob approach. Written in Typescript` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
 1. (⭐ 35) [Mutasi Scraper](https://github.com/fdciabdul/mutasi-scraper) - `NodeJS Package for scraping settlement (mutasi) in iBank indonesia` *by [Taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## N
-1. (⭐ 141) [naskah](https://github.com/pveyes/naskah) - `Bahasa pemrograman dengan sintaks Bahasa Indonesia (Programming language with Indonesian syntax) indonesia` *by [Fatih Kalifa](https://github.com/pveyes)*
+1. (⭐ 154) [naskah](https://github.com/pveyes/naskah) - `Bahasa pemrograman dengan sintaks Bahasa Indonesia (Programming language with Indonesian syntax) indonesia` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 90) [Notiolink](https://github.com/theodorusclarence/notiolink) - `Self-hostable branded link shortener built with Next.js & Notion API` *by [Theodorus Clarence](https://github.com/theodorusclarence)*
 1. (⭐ 82) [Notething](https://github.com/Kholid060/notething) - `Note-taking app with full keyboard compatibility.` *by [Ahmad Kholid](https://github.com/Kholid060)*
-1. (⭐ 42) [nuxewind](https://github.com/zuramai/nuxewind) - `Open Source Vue JS (Nuxt) Tailwind Admin Dashboard Template` *by [Ahmad Saugi](https://github.com/zuramai)*
+1. (⭐ 69) [nuxewind](https://github.com/zuramai/nuxewind) - `Open Source Vue JS (Nuxt) Tailwind Admin Dashboard Template` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 32) [nuxt-web3](https://github.com/bl0cknumber/nuxt-web3) - `Web3.js module integration for Nuxt` *by [Fauzan](https://github.com/bl0cknumber)*
-1. (⭐ 23) [ngecilin](https://github.com/kulkultech/ngecilin) - `Chrome Extension to shorten your looooong URL` *by [Kulkul Technology](https://github.com/kulkultech)*
+1. (⭐ 33) [ngecilin](https://github.com/kulkultech/ngecilin) - `Chrome Extension to shorten your looooong URL` *by [Kulkul Technology](https://github.com/kulkultech)*
 1. (⭐ 16) [NeoAdzan](https://github.com/cahyadsn/neoadzan) - `NeoAdzan! Islamic PrayerTime Schedule on PHP language.` *by [Cahya DSN](https://github.com/cahyadsn)*
 1. (⭐ 16) [NEFA Landing Page](https://github.com/RSurya99/nefa) - `Free landing page template built using nuxt and tailwindcss` *by [Rafli Surya P](https://github.com/RSurya99)*
 1. (⭐ 11) [Node Disk Storage (NDS)](https://github.com/restuwahyu13/node-disk-storage) - `Fast and Secure local storage persistent data for Node JS` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 2) [Ngobrol Dong App](https://github.com/iyansr/ngobrol-dong) - `Ngobrol is chat application that user track friends location, built with React Native integrated with Firebase and Mapbox` *by [I Putu Saputrayana](https://github.com/iyansr)*
-1. (⭐ 0) [next-tabley](https://github.com/alfianandinugraha/next-tabley) - `Using React-Table and Chakra UI to create powerful table` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
+1. (⭐ 4) [next-tabley](https://github.com/alfianandinugraha/next-tabley) - `Using React-Table and Chakra UI to create powerful table` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
@@ -274,7 +274,7 @@
 1. (⭐ 9) [Polarite](https://github.com/teknologi-umum/polarite) - `a Pastebin alternative made for simplicity written in Go.` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 6) [Pleasantcord](https://github.com/Namchee/pleasantcord) - `NSFW image moderation bot for Discord` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 5) [Product Stock Web App](https://github.com/nafiesl/product-stock) - `A product stock management web app example` *by [Nafies Luthfi](https://github.com/nafiesl)*
-1. (⭐ 5) [Programming](https://github.com/BillyFrcs/Programming) - `General Purpose Object Oriented & Procedural Programming.` *by [Billy Franscois](https://github.com/BillyFrcs)*
+1. (⭐ 6) [Programming](https://github.com/BillyFrcs/Programming) - `General Purpose Object Oriented & Procedural Programming.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 1. (⭐ 4) [Piramida](https://github.com/Namchee/piramida) - `Piramida adalah sebuah situs sederhana yang dapat digunakan untuk memastikan legalitas platform investasi yang Anda andalkan.` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 3) [Prawf](https://github.com/elianiva/prawf) - `A simple Pauli Test simulation app made with Typescript, Web Component, and RxJS` *by [elianiva](https://github.com/elianiva)*
 1. (⭐ 1) [PkDx: A PokeDex app](https://github.com/svspicious/pkdx) - `A simple pokedex web app built with react.js, typescript, & love` *by [Wisesa](https://github.com/svspicious)*
@@ -287,10 +287,10 @@
 1. (⭐ 414) [Quran - API](https://github.com/gadingnst/quran-api) - `Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy` *by [Gading Nasution](https://github.com/gadingnst)*
 1. (⭐ 58) [Quote's Project](https://github.com/nyancodeid/quotes) - `Website sederhana yang menampilkan Kutipan Inspirasional secara acak.` *by [Ryan Aunur Rassyid](https://github.com/nyancodeid)*
 1. (⭐ 24) [Quran API ID](https://github.com/renomureza/quran-api-id) - `REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat.` *by [R.M. Reza](https://github.com/renomureza)*
-1. (⭐ 8) [quranku](https://github.com/dikisiswanto/quranku) - `Al-Quran mini web app. Built with Next.js & TailwindCSS` *by [Diki Siswanto](https://github.com/dikisiswanto)*
+1. (⭐ 9) [quranku](https://github.com/dikisiswanto/quranku) - `Al-Quran mini web app. Built with Next.js & TailwindCSS` *by [Diki Siswanto](https://github.com/dikisiswanto)*
 1. (⭐ 8) [QURAN](https://github.com/Kristories/quran) - `This repository is intended for transliteration, translation, edition, and structure management.` *by [Wahyu Kristianto](https://github.com/Kristories)*
-1. (⭐ 7) [quran](https://github.com/fiqryq/quran-digital) - `simple Al-quran digital using vue 2.` *by [Fiqry choerudin](https://github.com/fiqryq)*
-1. (⭐ 4) [quiz-app](https://github.com/gibran-abdillah/quiz-app) - `Quiz Web App with Flask and MongoDB as the Databases` *by [gibran abdillah](https://github.com/gibran-abdillah)*
+1. (⭐ 13) [quran](https://github.com/fiqryq/quran-digital) - `simple Al-quran digital using vue 2.` *by [Fiqry choerudin](https://github.com/fiqryq)*
+1. (⭐ 7) [quiz-app](https://github.com/gibran-abdillah/quiz-app) - `Quiz Web App with Flask and MongoDB as the Databases` *by [gibran abdillah](https://github.com/gibran-abdillah)*
 1. (⭐ 0) [Quran Randomizer](https://github.com/Ucok23/quran-randomizer) - `API that return random one ayah from quran on every request, good for "one day one ayah" app` *by [Ucok I. L](https://github.com/Ucok23)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
@@ -299,41 +299,41 @@
 1. (⭐ 656) [Rakit Validation](https://github.com/rakit/validation) - `PHP Standalone Validation Library` *by [Muhammad Syifa](https://github.com/emsifa)*
 1. (⭐ 364) [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - `A better credit card form for React Native` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
 1. (⭐ 239) [React Native + Expo Starter Templates](https://github.com/codingki/react-native-expo-template) - `starter templates for building apps with react native and expo` *by [Nur Fikri](https://github.com/codingki)*
-1. (⭐ 232) [RuangAdmin](https://github.com/indrijunanda/RuangAdmin) - `RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4` *by [indri junanda](https://github.com/indrijunanda)*
+1. (⭐ 274) [RuangAdmin](https://github.com/indrijunanda/RuangAdmin) - `RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4` *by [indri junanda](https://github.com/indrijunanda)*
 1. (⭐ 131) [raw.macro](https://github.com/pveyes/raw.macro) - `Read file contents at build time via babel-plugin-macros. webpack-less raw-loader` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 94) [Rapi UI](https://github.com/codingki/react-native-rapi-ui) - `React native components library` *by [Nur Fikri](https://github.com/codingki)*
-1. (⭐ 46) [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - `ReScript bindings for @chakra-ui/react` *by [RiN](https://github.com/ri7nz)*
+1. (⭐ 64) [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - `ReScript bindings for @chakra-ui/react` *by [RiN](https://github.com/ri7nz)*
 1. (⭐ 30) [React Mazer UI](https://github.com/fachryansyah/react-mazer-ui) - `Reusable component Reactjs for Mazer Template, Free and Open-Source` *by [Muhammad Fahriansyah](https://github.com/fachryansyah)*
 1. (⭐ 26) [reactplate](https://github.com/bl0cknumber/reactplate) - `A Minimal Setup & Fast Boilerplate for React.js with Vite.` *by [Fauzan](https://github.com/bl0cknumber)*
-1. (⭐ 17) [rescript-libs](https://github.com/ri7nz/rescript-libs) - `a Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.` *by [RiN](https://github.com/ri7nz)*
+1. (⭐ 22) [rescript-libs](https://github.com/ri7nz/rescript-libs) - `a Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.` *by [RiN](https://github.com/ri7nz)*
 1. (⭐ 4) [Reactism](https://github.com/gifaeriyanto/reactism) - `Boilerplate for React projects. Don't take too long to get started!` *by [Gifa Eriyanto](https://github.com/gifaeriyanto)*
 1. (⭐ 4) [Ravioli](https://github.com/raviolini/ravioli) - `A startup script and an automation service made with Python.` *by [Raviolini](https://github.com/raviolini)*
 1. (⭐ 4) [Redux Adventure](https://github.com/BillyFrcs/ReduxAdventure) - `2D Platformer Game Redux Adventure.` *by [Billy Franscois](https://github.com/BillyFrcs)*
-1. (⭐ 2) [Restolobe](https://github.com/Ibrahimsyah/Restolobe) - `Simple Restaurant Catalog Web Apps for Dicoding's Front End Developer Expert Course Final Submission` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
+1. (⭐ 3) [Restolobe](https://github.com/Ibrahimsyah/Restolobe) - `Simple Restaurant Catalog Web Apps for Dicoding's Front End Developer Expert Course Final Submission` *by [Ibrahimsyah Zairussalam](https://github.com/Ibrahimsyah)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## S
 1. (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
 1. (⭐ 1,231) [Sudomy](https://github.com/screetsec/Sudomy) - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
-1. (⭐ 464) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
+1. (⭐ 533) [statically](https://github.com/staticallyio/statically) - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
 1. (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 1. (⭐ 300) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - `Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 1. (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
 1. (⭐ 243) [Sawa](https://github.com/lantip/sawa) - `sawa (ꦱꦮ) is an open source programming language, an interpreter to be precise, where you can write python code using javanese character.` *by [Rony Lantip](https://github.com/lantip)*
-1. (⭐ 150) [Swime](https://github.com/sendyhalim/Swime) - `Swift MIME type checking based on magic bytes` *by [Sendy Halim](https://github.com/sendyhalim)*
+1. (⭐ 163) [Swime](https://github.com/sendyhalim/Swime) - `Swift MIME type checking based on magic bytes` *by [Sendy Halim](https://github.com/sendyhalim)*
 1. (⭐ 150) [Sistem Informasi Akademik (SIAKAD)](https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel) - `Sistem Informasi Akademik Sekolah adalah Website untuk para siswa dapat melihat jadwal pelajaran, dan nilai rapot dan para guru dapat menambahkan nilai siswa dengan muda melalui website.` *by [
 Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 101) [Screenshot](https://github.com/staticallyio/screenshot) - `Screenshot is a simple application to automagically convert URLs into images and PDFs. It's designed to be simple and easy to install anywhere. This application is split into two distinct components, the core service to process the URL and then send it to a remote browser (Chrome). The remote browser to screenshot and generate PDF from a URL.` *by [Frans Allen](https://github.com/fransallen)*
 1. (⭐ 97) [SonWan UI](https://github.com/sonnylazuardi/sonwan-ui) - `SonWan UI is a modular UI component library based on figma design to build your next React Web Application.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
-1. (⭐ 84) [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - `HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
+1. (⭐ 100) [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - `HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
 1. (⭐ 29) [Share](https://github.com/shuLhan/share) - `A collection of libraries and tools written in Go.` *by [Shulhan](https://github.com/shuLhan)*
 1. (⭐ 24) [Skilline Landing Page](https://github.com/mhaecal/skilline-landing-page) - `Free landing page template built on top of Tailwind CSS` *by [Muhaecal D. Khatami](https://github.com/mhaecal)*
-1. (⭐ 22) [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - `A frontend framework that can help you write performant complex web feature with low dev time and resource cost.` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
+1. (⭐ 27) [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - `A frontend framework that can help you write performant complex web feature with low dev time and resource cost.` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
 1. (⭐ 19) [Sistem Informasi Perpustakaan](https://github.com/fauzan1892/perpus-ci3) - `Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 1. (⭐ 15) [Satpam](https://github.com/cermati/satpam) - `Javascript validation library, batteries included` *by [Cermati.com](https://github.com/cermati)*
 1. (⭐ 15) [Svelte-MPA](https://github.com/kokizzu/svelte-mpa) - `Svelte Multi-Page App, change Svelte default component-based SPA into an statically-generated MPA` *by [Kiswono Prayogo](https://github.com/kokizzu)*
-1. (⭐ 9) [sekolah](https://github.com/hendisantika/sekolah) - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
+1. (⭐ 14) [sekolah](https://github.com/hendisantika/sekolah) - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
 1. (⭐ 7) [SiJago (GraphQL Client)](https://github.com/restuwahyu13/sijago) - `SiJago is GraphQL Client for browser and node, you can write request graphql schema using javascript object style.` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 7) [Seletube](https://github.com/alfianandinugraha/seletube) - `YouTube Playlist Downloader arrow_forward. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 1. (⭐ 5) [Snake Lol](https://github.com/BillyFrcs/SnakeLol) - `Simple 2D Snake Game Snake Lol.` *by [Billy Franscois](https://github.com/BillyFrcs)*
@@ -358,10 +358,10 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 325) [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) - `Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis` *by [Juan Christian](https://github.com/HotPotatoC)*
 1. (⭐ 319) [thedev.id](https://github.com/fransallen/thedev.id) - `thedev.id is a free identity for developers on the web. This service offers a handy subdomain like foo.thedev.id or bar.thedev.id for use on your static sites via CNAME record. Fork, add subdomain and send a Pull Request. We will make it work.` *by [Frans Allen](https://github.com/fransallen)*
-1. (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
+1. (⭐ 375) [tinyws](https://github.com/tinyhttp/tinyws) - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 1. (⭐ 119) [Tailwind VPN Landingpage - Free Landingpage Template Apps](https://github.com/naufaldi/next-landing-vpn) - `An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0` *by [Naufaldi](https://github.com/naufaldi)*
 1. (⭐ 81) [tempe](https://github.com/masbagal/tempe) - `Featherlight (< 2kB) helper for Javascript date formatting` *by [Dimitrij Agal](https://github.com/masbagal)*
-1. (⭐ 53) [theme-in-css](https://github.com/pveyes/theme-in-css) - `Type-safe CSS custom properties (CSS variables) for theming purpose` *by [Fatih Kalifa](https://github.com/pveyes)*
+1. (⭐ 61) [theme-in-css](https://github.com/pveyes/theme-in-css) - `Type-safe CSS custom properties (CSS variables) for theming purpose` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 37) [Termux WhatsApp Bot](https://github.com/fdciabdul/termux-whatsapp-bot) - `Lightweight Whatsapp Bot` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 28) [TikTok Downloader](https://github.com/hansputera/tiktok-dl) - `Free TikTok Video Downloader | Watermark and Without Watermark Support` *by [Hanif Dwy Putra S](https://github.com/hansputera)*
 1. (⭐ 14) [Timetheft.js](https://github.com/bl0cknumber/timetheft) - `Timetheft.js - Simple and opinionated library to handle countdown in Javascript` *by [Fauzan](https://github.com/bl0cknumber)*
@@ -386,7 +386,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 223) [Video Stream](https://github.com/levina-lab/video-stream) - `video stream is a Telegram Music+Video Streamer Bot written in Python with Pyrogram and Py-TgCalls with lots of useful features` *by [levina](https://github.com/levina-lab)*
 1. (⭐ 119) [Vredeburg](https://github.com/dafiulh/vredeburg) - `A simple starter project to create a blog using Eleventy and Tailwind CSS` *by [dafiulh](https://github.com/dafiulh)*
 1. (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
-1. (⭐ 24) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
+1. (⭐ 23) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
 1. (⭐ 8) [VSCode jsdoc-generator](https://github.com/kimlimjustin/vscode-jsdoc-generator) - `VSCode JSDoc comments Generator` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 7) [VSCode Waktu Sholat](https://github.com/lakuapik/vscode-waktusholat) - `Ekstensi Visual Studio Code (vscode) untuk menampilkan dan mengingatkan waktu sholat.` *by [David Adi Nugroho](https://github.com/lakuapik)*
 1. (⭐ 2) [Visual Programming](https://github.com/BillyFrcs/VisualProgramming) - `Visual Basic .NET Windows Form Application.` *by [Billy Franscois](https://github.com/BillyFrcs)*
@@ -395,13 +395,13 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## W
 1. (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
-1. (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
+1. (⭐ 577) [wilayah](https://github.com/cahyadsn/wilayah) - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
 1. (⭐ 330) [Watermark KTP](https://github.com/sirilius/watermarkktp) - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
 1. (⭐ 153) [Whatsapp Analyzer](https://github.com/PetengDedet/WhatsApp-Analyzer) - `WhatsApp Chat analyzer` *by [Ikhwan Maftuh](https://github.com/PetengDedet)*
 1. (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
-1. (⭐ 35) [whatsapp-clone](https://github.com/kimlimjustin/whatsapp-clone) - `Web based Whatsapp clone with real time private chat and group chat features` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
+1. (⭐ 46) [whatsapp-clone](https://github.com/kimlimjustin/whatsapp-clone) - `Web based Whatsapp clone with real time private chat and group chat features` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
 1. (⭐ 1) [WhatsApp Cloud-API Wrapper](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) - `a Node.js wrapper for the Whatsapp Cloud API` *by [Taqin](https://github.com/fdciabdul)*
-1. (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
+1. (⭐ 40) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 16) [WA Terminal](https://github.com/afikrim/wa-terminal) - `WA Terminal is a CLI application that allows us to login and send message with WhatsApp with a single command.` *by [Aziz Fikri](https://github.com/afikrim)*
 1. (⭐ 9) [Windgraph](https://github.com/Namchee/windgraph) - `Tailwind CSS powered open graph generator` *by [Cristopher](https://github.com/Namchee)*
 1. (⭐ 7) [Writter](https://github.com/kontenbase-team/writter) - `A very simple Twitter clone with Remix and Kontenbase. Just a demo, not meant to be 100%` *by [Kontenbase Team](https://github.com/kontenbase-team)*
@@ -416,7 +416,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## Y
-1. (⭐ 5) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
+1. (⭐ 6) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 1) [YADPF](https://github.com/auralius/yadpf) - `A generic implementation of dynamic programming algorithm and value iteration algorithm.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 2. (⭐ 118) [YOMEN](https://github.com/tegal1337/YOMEN) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
@@ -425,7 +425,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 
 ## Z
 1. (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
-1. (⭐ 14) [zman](https://github.com/azzamsa/zman) - `A time progress bar utilities` *by [Azzam S.A.](https://github.com/azzamsa)*
+1. (⭐ 16) [zman](https://github.com/azzamsa/zman) - `A time progress bar utilities` *by [Azzam S.A.](https://github.com/azzamsa)*
 1. (⭐ 4) [ZippyDamn-lib!](https://github.com/diosamuel/zippydamn-lib) - `ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs` *by [Virdio Samuel](https://github.com/diosamuel)*
 
 
