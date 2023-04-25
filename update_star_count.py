@@ -3,8 +3,8 @@ import re
 from github import Github
 
 def update_star_count(readme_contents, repo_info):
-    pattern = fr'\(⭐\s*\d+\)\s*\[{repo_info["name"]}\]'
-    new_readme_line = f'(⭐ {repo_info["stargazers_count"]}) [{repo_info["name"]}]'
+    pattern = fr'\(⭐\s*\d+\)\s*\[{repo_info.name}\]'
+    new_readme_line = f'(⭐ {repo_info.stargazers_count}) [{repo_info.name}]'
     return re.sub(pattern, new_readme_line, readme_contents)
 
 def main():
