@@ -3,6 +3,7 @@ name: Update Star Count
 on:
   schedule:
     - cron: "0 0 * * *" # This runs daily at 00:00 UTC, you can adjust the schedule as needed.
+  workflow_dispatch: # This allows the workflow to be triggered manually.
 
 jobs:
   update_star_count:
@@ -28,4 +29,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_star_count.py
-
