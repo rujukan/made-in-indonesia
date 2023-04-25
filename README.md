@@ -399,6 +399,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 153) [Whatsapp Analyzer](https://github.com/PetengDedet/WhatsApp-Analyzer) - `WhatsApp Chat analyzer` *by [Ikhwan Maftuh](https://github.com/PetengDedet)*
 1. (⭐ 328) [Whatsapp API Tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - `Implementation of whatsapp-web.js` *by [Nur Muhammad](https://github.com/ngekoding)*
 1. (⭐ 35) [whatsapp-clone](https://github.com/kimlimjustin/whatsapp-clone) - `Web based Whatsapp clone with real time private chat and group chat features` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
+1. (⭐ 1) [WhatsApp Cloud-API Wrapper](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) - `a Node.js wrapper for the Whatsapp Cloud API` *by [Taqin](https://github.com/fdciabdul)*
 1. (⭐ 34) [webperf-ecommerce-id](https://github.com/mazipan/webperf-ecommerce-id) - `Web Perf Comparison for E-Commerce in Indonesia` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 16) [WA Terminal](https://github.com/afikrim/wa-terminal) - `WA Terminal is a CLI application that allows us to login and send message with WhatsApp with a single command.` *by [Aziz Fikri](https://github.com/afikrim)*
 1. (⭐ 9) [Windgraph](https://github.com/Namchee/windgraph) - `Tailwind CSS powered open graph generator` *by [Cristopher](https://github.com/Namchee)*
