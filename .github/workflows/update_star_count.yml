@@ -2,7 +2,7 @@ name: Update Star Count
 
 on:
   schedule:
-    - cron: "* * * * *" # This runs daily at 00:00 UTC, you can adjust the schedule as needed.
+    - cron: "0 0 * * *" # This runs daily at 00:00 UTC, you can adjust the schedule as needed.
 
 jobs:
   update_star_count:
