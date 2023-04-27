@@ -34,7 +34,7 @@
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## B
-1. (⭐ 743) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
+1. (⭐ 742) [bebasid](https://github.com/bebasid/bebasid) - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
 1. (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
 1. (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
 1. (⭐ 80) [Bloggerpack](https://github.com/bloggerpack/bloggerpack) - `A tool for develop Blogger theme.` *by [Igoy Nawamreh](https://github.com/igoynawamreh)*
@@ -81,7 +81,7 @@
 1. (⭐ 59) [domhttpx](https://github.com/naufalardhani/domhttpx) - `domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.` *by [Naufal Ardhani](https://github.com/naufalardhani)*
 1. (⭐ 43) [Devover Forum](https://github.com/devoverid/forum) - `a Opensource Forum Web with Tailwinds and Laravel` *by [DevoverID](https://github.com/devoverid)*
 1. (⭐ 58) [discussbase](https://github.com/hilmanski/discussbase) - `An open-source forum Create your discussion platform and deploy it completely free, Using SEVEN stack - Supabase, Vercel and Next.js` *by [Hilman Ramadhan](https://github.com/hilmanski)*
-1. (⭐ 38) [django-jsonfield-backport](https://github.com/laymonage/django-jsonfield-backport) - `Backport of the cross-DB JSONField model and form fields from Django 3.1.` *by [Sage Abdullah](https://github.com/laymonage)*
+1. (⭐ 39) [django-jsonfield-backport](https://github.com/laymonage/django-jsonfield-backport) - `Backport of the cross-DB JSONField model and form fields from Django 3.1.` *by [Sage Abdullah](https://github.com/laymonage)*
 1. (⭐ 25) [Discord Music Bot For Termux](https://github.com/fdciabdul/tmuxdcbot) - `Discord Music Bot For Termux` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 16) [Decimal Clock](https://github.com/teknologi-umum/decimal-clock) - `1 day = 10 decimal hours, 1 decimal hour = 100 decimal minutes, 1 decimal minute = 100 decimal seconds` *by [Teknologi Umum](https://github.com/teknologi-umum)*
 1. (⭐ 15) [Dogeit](https://github.com/kimlimjustin/dogeit) - `Doge version of reddit.` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
@@ -147,7 +147,7 @@
 
 ## H
 1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
-1. (⭐ 508) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
+1. (⭐ 509) [htmr](https://github.com/pveyes/htmr) - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
 1. (⭐ 147) [Hadith - API](https://github.com/gadingnst/hadith-api) - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/gadingnst)*
 1. (⭐ 46) [HikariCP](https://github.com/hendisantika/HikariCP) - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
 1. (⭐ 32) [Hugoblog](https://github.com/zuramai/hugoblog) - `Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)` *by [Ahmad Saugi](https://github.com/zuramai)*
@@ -419,7 +419,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 1. (⭐ 6) [Youtube-Lyrics-Finder](https://github.com/fdciabdul/Youtube-Lyrics-Finder) - `a Simple library to Search Lyrics from Youtube Videos` *by [taqin](https://github.com/fdciabdul)*
 1. (⭐ 1) [YADPF](https://github.com/auralius/yadpf) - `A generic implementation of dynamic programming algorithm and value iteration algorithm.` *by [Auralius Manurung](https://github.com/auralius)*
 1. (⭐ 0) [Yourduit](https://github.com/alfianandinugraha/yourduit) - `Yourduit is app to note your transaction` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
-2. (⭐ 118) [YOMEN](https://github.com/tegal1337/YOMEN) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
+2. (⭐ 117) [YOMEN](https://github.com/tegal1337/YOMEN) - `Youtube Bot Auto Commenter Using Puppeter and NodeJS` *by [Taqin](https://github.com/fdciabdul)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
