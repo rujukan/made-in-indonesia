@@ -1,0 +1,31 @@
+name: Update Star Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # This runs daily at 00:00 UTC, you can adjust the schedule as needed.
+  workflow_dispatch: # This allows the workflow to be triggered manually.
+
+jobs:
+  update_star_count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # This prevents the GitHub token from being exposed.
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update_star_count.py
