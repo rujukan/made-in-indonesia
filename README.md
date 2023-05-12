@@ -175,6 +175,7 @@
 1. (⭐ 16) [JWT Transform](https://github.com/restuwahyu13/jwt-transform) - `Transform your real jwt token into fake jwt token.` *by [Restu Wahyu Saputra](https://github.com/restuwahyu13)*
 1. (⭐ 11) [Jago Sholat](https://github.com/amirisback/jago-sholat) - `Muslim Mobile Apps, Aplikasi berbasis android yang di khususkan untuk pencatatan sholat` *by [Faisal Amir](https://github.com/amirisback)*
 1. (⭐ 2) [jasat](https://github.com/ri7nz/jasat) - `Codemod for JavaScript Stuff (Jasat is shortname)` *by [RiN](https://github.com/ri7nz)*
+1. (⭐ 11) [Javascript-Audio-Player](https://github.com/mrtampan/javascript-audio-player) - `Simple Audio Player Javascript. Build with Howler Library` *by [mrtampan](https://github.com/mrtampan)*
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
