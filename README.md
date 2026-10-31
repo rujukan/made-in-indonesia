@@ -421,6 +421,7 @@ Adhi Ariyadi](https://github.com/adhiariyadi)*
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
 ## Z
+1. [zakat-mal](https://github.com/codesbykhairannoor/zakat-mal) - `Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & Fatwa MUI/BAZNAS)` *by [Khairan Noor](https://github.com/codesbykhairannoor)*
 1. (⭐ 15) [ZippyDamn!](https://github.com/diosamuel/zippydamn) - `Unofficial Zippyshare CLI tools (download and search)` *by [Virdio Samuel](https://github.com/diosamuel)*
 1. (⭐ 14) [zman](https://github.com/azzamsa/zman) - `A time progress bar utilities` *by [Azzam S.A.](https://github.com/azzamsa)*
 1. (⭐ 4) [ZippyDamn-lib!](https://github.com/diosamuel/zippydamn-lib) - `ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs` *by [Virdio Samuel](https://github.com/diosamuel)*
